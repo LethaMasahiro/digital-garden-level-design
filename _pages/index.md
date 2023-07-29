@@ -28,7 +28,7 @@ permalink: /
 - [[Engineer]]
 - [[Manager]]
 - [[Player]]
-- [[Writter]]
+- [[Writer]]
 
 ## Tools
 - [[Communication Tools]]
@@ -45,3 +45,12 @@ permalink: /
 https://obsidian.rocks/creating-a-digital-garden-in-obsidian/
 
 
+https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll
+
+https://refinedmind.co/obsidian-jekyll-workflow (do I need this?)
+
+Notes on publishing:
+- hashtags are not working
+-backlinks are included
+- graph view included in the bottom of the page (without colors and directions)
+- images work
