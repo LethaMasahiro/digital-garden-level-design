@@ -1,6 +1,3 @@
----
----
-
 
 Also known as: Clone
 
