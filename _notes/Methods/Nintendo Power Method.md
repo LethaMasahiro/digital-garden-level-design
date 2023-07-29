@@ -1,4 +1,6 @@
-
+---
+title: Nintendo Power Method
+---
 
 ## Classification
 #method 

@@ -1,3 +1,7 @@
+---
+title: Pacing Diagram
+---
+
 also known as: 
 
 ## Classification

@@ -1,11 +1,12 @@
 ---
-title: Drawing a Map
+title: Method Layout
 ---
+
 
 also known as: 
 
 ## Classification
-#method
+- #method 
 #medium 
 #process 
 #roles 
@@ -20,6 +21,7 @@ also known as:
 ### General
 
 ### Specific
+- 
 
 ## Solution Approach
 
@@ -52,4 +54,6 @@ also known as:
 ## Relevant Tools
 
 ## Relevant Literature
+
+
 

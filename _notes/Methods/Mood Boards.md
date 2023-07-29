@@ -1,3 +1,7 @@
+---
+title: Mood Boards
+---
+
 also known as: 
 
 ## Classification

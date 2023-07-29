@@ -1,3 +1,7 @@
+---
+title: Molecule Diagram
+---
+
 also known as:
 
 ## Classification

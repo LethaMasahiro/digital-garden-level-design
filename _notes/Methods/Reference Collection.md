@@ -1,3 +1,7 @@
+---
+title: Reference Collection
+---
+
 also known as: Reference Board
 
 ## Classification

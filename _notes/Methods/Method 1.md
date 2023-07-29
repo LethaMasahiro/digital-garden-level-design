@@ -1,3 +1,6 @@
+---
+title: Method 1
+---
 
 Also known as: Clone
 
