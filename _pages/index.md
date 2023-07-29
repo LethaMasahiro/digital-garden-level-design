@@ -45,7 +45,7 @@ permalink: /
 https://obsidian.rocks/creating-a-digital-garden-in-obsidian/
 
 
-https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll
+https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll (need older version for Ruby)
 
 https://refinedmind.co/obsidian-jekyll-workflow (do I need this?)
 
