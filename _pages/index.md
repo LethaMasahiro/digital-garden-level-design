@@ -10,17 +10,34 @@ permalink: /
 (check how to do a proper dashboard in Obsidian that can be the starting website)
 
 ## Methods
-- [[Reference Collection]]
-- [[Mood Boards]]
-- [[Pacing Diagram]]
-- [[Nintendo Power Method]]
-- [[Gym Scene]]
+- [[Axonometric]]
+- [[Behavior Diagram]]
+- [[Critical Path Analysis]]
 - [[Drawing a Map]]
+- [[Game Design Document]]
+- [[Gym Scene]]
+- [[High Concept]]
+- [[Lenses]]
+- [[Level Parti]]
+- [[Massing]]
+- [[Molecule Diagram]]
+- [[Mood Boards]]
+- [[Nintendo Power Method]]
+- [[Pacing Diagram]]
+- [[Paper Prototype]]
+- [[Pillars, Goals and Features]]
+- [[Proximity Diagram]]
+- [[Reference Collection]]
+- [[Reward Schedule]]
+- [[Risk Schedule and Learning]]
+- [[Symbols and Visual Language]]
 
 ## Processes
+- [[Combat Design]]
 - [[Software Engineering Workflow]]
 - [[Game Development]]
 - [[Prototyping]]
+- [[Iterative Map Design]]
 
 ## Roles
 - [[Artist]]
@@ -28,16 +45,31 @@ permalink: /
 - [[Engineer]]
 - [[Manager]]
 - [[Player]]
+- [[Tester]]
 - [[Writer]]
 
 ## Tools
 - [[Communication Tools]]
+- [[Computational Tools]]
 - [[Digital Collection Tools]]
 - [[Digital Design Tools]]
 - [[Digital Diagram Tools]]
 - [[Game Engines]]
 - [[Non-digital Design Tools]]
 - [[Storage Tools]]
+
+## Artifacts
+- [[Asset]]
+- [[Blockout]]
+- [[Collection]]
+- [[Diagram]]
+- [[Document]]
+- [[Graph]]
+- [[Hypergraph]]
+- [[Map]]
+- [[Sketch]]
+- [[Timeline]]
+- [[Venn Diagram]]
 
 
 ## How to Publish
