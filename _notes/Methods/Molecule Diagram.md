@@ -4,6 +4,7 @@ title: Molecule Diagram
 
 also known as:
 
+TO DO: Hub spaces, Sandbox gamespaces (Totten)
 ## Classification
 #method 
 #medium/diagram
@@ -32,7 +33,7 @@ General:
 - don't want to show exact metrics but rather describe the relations between the nodes
 
 Concrete:
-- A game level has different gamespaces that are conected through tunnels, gateways
+- A game level has different gamespaces that are connected through tunnels, gateways
 - Need to show direct transferals to gamespaces or indirect views on another game areal (e.g. on a platform)
 - How a player moves through the level. Is there a one-way or can the player go back? What does it do for the level pacing when one can go back or not, or look at the arena before a big fight happens?
 
@@ -64,7 +65,7 @@ Hard and soft gates:
 ### Input
 - Decision which gamespaces you have in your level
 - Pen and Paper or digital tool
-- graph theory knowledge
+- Graph theory knowledge
 
 ### Application. 
 - draw your gamespaces as nodes, the size can vary based on the criticality and importance to the level or story. You can always name them and take nodes on the sides as well
@@ -84,8 +85,12 @@ Hard and soft gates:
 ![](https://i.imgur.com/IBV4NBz.png)
 other example how to draw and explain the diagram (Totten)
 
+##### Hub Spaces
+
+##### Sandbox Gamespaces
+
 ### Output
-- Molecule diagram, Hypergraph (?)
+- Molecule [[Diagram]], [[Hypergraph]] (?)
 - interpretation of the diagram (sort of a map)
 
 ### When to use it
@@ -105,6 +110,7 @@ other example how to draw and explain the diagram (Totten)
 - [[Prototyping]]
 - [[Game Development]] designing?
 - [[Game Development]] Planning?
+- [[Combat Design]]
 
 ## Applicability
 - good to have in planning and designing process
@@ -128,7 +134,8 @@ Cons:
 - not interchangeable with your maps and still conceptual
 
 ## Relation with other Methods
-- Map Drawing
+- [[Drawing a Map]]
+- [[Proximity Diagram]]
 
 ## Examples
 - Molecule Diagram halo4
@@ -139,12 +146,12 @@ Cons:
 
 ## Relevant Tools
 - Pen and Paper
-- Communication Tool like Teams or Slack
-- Document Folder Structure to store the Diagram
+- [[Communication Tools]] like Teams or Slack
+- [[Storage Tools]] Document Folder Structure to store the Diagram
 - some [[Digital Design Tools]] to draw and share
 
 ## Relevant Literature
 
 https://www.gamedeveloper.com/design/the-metrics-of-space-molecule-design
 
-Totten Book
+[[Totten 2019 - An Architectural]]

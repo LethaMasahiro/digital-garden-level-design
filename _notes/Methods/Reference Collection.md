@@ -57,7 +57,7 @@ also known as: Reference Board
 - Can also be mockups
 
 ### Output
-- said collection
+- said [[Collection]]
 - can be shared
 
 ### When to use it

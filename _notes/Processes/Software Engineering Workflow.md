@@ -48,7 +48,7 @@ Software Engineering Workflow by Ralf Engelschall (2019-2021) (can I use this? L
 	- Roles: #roles/manager [[Manager]] #roles/designer [[Designer]] #roles/artists [[Artist]] #roles/engineers [[Engineer]]
 	- Context: everyone can collaborate and bring their ideas to the table, use mood boards etc. to explore the game's aesthetic, pin point what you want to create, define first dynamics and playgoals, play with your ideas
 	- Input: Ideas
-	- Output: [[Methods/Mood Boards]] , [[Reference Collection]] 
+	- Output: [[Methods/Mood Boards]] , [[Reference Collection]], [[Collection]]
 	- Related Tools: [[Storage Tools]] [[Digital Design Tools]]
 	
 4. Specify
@@ -59,7 +59,7 @@ Software Engineering Workflow by Ralf Engelschall (2019-2021) (can I use this? L
 	- Roles: #roles/manager  [[Manager]] #roles/designer [[Designer]]
 	- Context: Specify the mechanics and rules ("build your game on and around the mechanics and rules" (Totten?)), write down your core ideas and communicate it to the team
 	- Input: Ideas and findings from the last steps
-	- Output: [[Methods/Game Design Document]]? 
+	- Output: [[Methods/Game Design Document]]? , [[Document]]
 	- Related Tools: [[Storage Tools]] [[Communication Tools]]
 
 ### Development Section
@@ -70,7 +70,7 @@ Software Engineering Workflow by Ralf Engelschall (2019-2021) (can I use this? L
    - Roles: #roles/manager [[Manager]] #roles/designer [[Designer]]
    - Context: Use the methods (method summary) we have gathered to get concrete designs for your level, find a way to implement the mechanics into your game, draw a map, connect the big picture to the smaller levels, find a storyline and implement it in your gameplay, remodel and refactor your ideas, use tools to get a good result
    - Input: Design Document, Drawings and Sketches from the last steps, mechanics, game plan, ...
-   - Output: Refactored Game Design Document, Maps, [[Pacing Diagram]], [[Gym Scene]], More diagrams and graphs (like [[Molecule Diagram]])
+   - Output: Refactored Game Design Document, Maps, [[Pacing Diagram]], [[Gym Scene]], More diagrams and graphs (like [[Methods/Molecule Diagram]]), [[Diagram]]
    - Related Tools: [[Digital Design Tools]], [[Storage Tools]], [[Communication Tools]]
      
 6. Implement
@@ -90,7 +90,7 @@ Software Engineering Workflow by Ralf Engelschall (2019-2021) (can I use this? L
    - Roles: #roles/engineers 
    - Context: Make a playable demo that can be started from your choice of device
    - Input: Ready level
-   - Output: Built
+   - Output: Build
    - Related Tools: [[Game Engines]]
    
 8. Verify
@@ -101,7 +101,7 @@ Software Engineering Workflow by Ralf Engelschall (2019-2021) (can I use this? L
    - Here it deviates from Software Engineering Workflow because they don't roll back to design and implementing phase but first they go through the operation phase
    - Input: Built level or built game
    - Output: Document of bugs, errors etc., Feedback, maybe also decision if it can be operated or not
-   - Related Tools: [[Game Engines]], End-Device, Feedback Document
+   - Related Tools: [[Game Engines]], End-Device, Feedback [[Document]]
    - Related Processes: [[Prototyping]] ?
 
 ### Operations Section

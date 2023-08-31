@@ -31,15 +31,15 @@ In General:
 
 Concrete: 
 - create a level with a boss fight, pushing them directly into the fight will cause discomfort and frustration or anxiety
-- keeping the tension on one level will cause boredom
+- keeping the tension on one level without increasing or decreasing it will cause boredom
 - increasing the pacing linearly might be too predictable
 
 ## Approach/ Solution
 
 - use the three-act structure and write it down on a timeline.
-	- First act: 
-	- Second Act: 
-	- Third Act: 
+	- First act: The setup of the plot
+	- Second Act: The confrontation
+	- Third Act: The resolution
 
 ![](https://i.imgur.com/mg3KXr1.png)
 (Three-act-structure, https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/level-design-pacing-gameplay-beats-part1.php)
@@ -67,7 +67,7 @@ Concrete:
 - knowledge about the story structure of the level (three-acts?) and gameplay beats
 - pen and paper or a digital tool that helps visualizing your diagram
 
-### Application (?)
+### Application 
 
 - visual level timeline: write down the story structure on a timeline and add the gameplay beats. Color-code certain repeated patterns in your level. (e.g. Tutorials in green). Add hard-gates to further structure your level.
 - ![](https://i.imgur.com/fN3x7GN.png)
@@ -100,9 +100,9 @@ Concrete:
 
 ### Output
 - #medium/diagram 
-- A diagram that clearly shows the pacing of your level
+- A [[Diagram]] that clearly shows the pacing of your level,  can be a [[Graph]] too
 - #medium/timeline
-- See example with x/y axis pacing diagram, it follows the flow of time
+- See example with x/y axis pacing diagram, it follows the flow of time, [[Timeline]]
 
 ## Relevancy in the following Processes:
 - ??

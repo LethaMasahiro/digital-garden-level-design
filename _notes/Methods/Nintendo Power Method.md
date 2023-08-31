@@ -36,7 +36,7 @@ General and Concrete:
 -  If the points are populating the area too densely, you might reduce them to get more space into the level and let the player breathe
 
 ### Output
-- A map with beats marked in your level
+- A [[Map]] with beats marked in your level
 - Spatial layout of your level
 
 ### When to use it

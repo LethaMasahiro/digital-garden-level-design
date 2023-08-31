@@ -52,6 +52,7 @@ also known as:
 
 ### Output
 - Mood board that sets a certain tone, aesthetic, mood, easily communicates your idea through visuals
+- [[Collection]]
 
 ### When to use it
 - Share your vision

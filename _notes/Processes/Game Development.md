@@ -21,6 +21,10 @@ also known as:
 2. Pre-Production
 3. Production
 4. Testing
+   
+   ![](https://i.imgur.com/3bgknJI.png) 
+   Model for iterative game design: playtest, evaluate, and revise (Game Design Workshop)
+   
 5. Pre-Launch
 6. Launch
 7. Post-Production
@@ -44,3 +48,5 @@ Next and previous processes
 https://www.g2.com/articles/stages-of-game-development
 
 https://en.wikipedia.org/wiki/Video_game_development (Take that reference out lol but there are good references that you can put in instead)
+
+Game Design Workshop
