@@ -1,5 +1,14 @@
 ---
 title: Mood Boards
+tags:
+  - method
+  - process/planning
+  - medium/visual
+  - medium/collection
+  - roles/artists
+  - roles/designer
+  - used-by/artist
+aliases:
 ---
 
 also known as: 
@@ -11,97 +20,108 @@ also known as:
 #medium/collection
 
 ## Intent
-- transport a visual aesthetic or key you want in your game
-- communicate your idea of a feature on a visual basis
-- convey the mood (modus loci (? lol)) of your level
+
+- Convey a visual aesthetic or key concept for your game.
+- Communicate your feature ideas visually.
+- Convey the mood or atmosphere of your level.
 
 ## Problem
 
-### General
-
-### Specific
-- how to decide on which mood and aesthetic you want,
-- how to communicate it in your team and create a shared vision of how your level should look like
-- need a "communication medium" and "coordination medium" (Endrissat et al., 2016)
-- Expand your horizon and enable your creativity and self-autonomy
-- Find a point to start and yontinue working from
+- How does one decide on the mood and aesthetic for your level?
+- How to effectively communicate and share your vision with your team?
+- There's a need for a communication and coordination medium.
+- You want to expand your creative horizons and foster autonomy.
+- You want to find a starting point and continue your work effectively.
 
 ## Solution Approach
 
-### General
-- references are a great tool to explain your ideas through visual keys and already existent references
-- get inspired by by games, art and real-life examples
-- also just colors and abstract pictures help to solidify your vision
-- Sometimes it's easier to have existing objects to base your creativity and vision on rather than working on something from scratch
-- "Visual and material artifacts support creativity and coordination" (Endrissa et al., 2016)
-
-### Specific
+- Use references as a tool to express your ideas through visual cues and existing examples.
+- Find inspiration in games, art, and real-life references.
+- Colors and abstract images can help solidify your vision.
+- Utilize existing objects as a foundation for your creativity and vision.
+- "Visual and material artifacts support creativity and coordination." ([Endrissat et al., 2016](https://www.sciencedirect.com/science/article/pii/S0148296315004270))
 
 ## Application
 
 ### Input
-- Any visual data that fits your vision
-- Can be from games, art, reallife, movie scenes, colors, ...
-- e.g. snippets from the world of Pandora (Avatar) as inspiration for your own alien world, artwork from "Journey" (game) to help setting the mood of an isolated place, Greek architecture for a ruin dungeon in your game
-- Allowed sources are all types of visual assets: Digital paintings, paintings, photographies, scribbles, concept images, blueprints, screenshots, games, videos, GIFs (and memes), materials, textures, colors, shapes, models, sounds, music, voices, dialogues (also audio cues?)
+
+- Any visual data that aligns with your vision.
+- Sources can include games, art, real-life imagery, movie scenes, colors, and more.
+- For example, snippets from the world of Pandora (Avatar, 2009) can inspire your own alien world, artwork from "Journey" (2012) can set the mood for an isolated place, Greek architecture can influence a ruin dungeon in your game.
+- Allowable sources encompass various visual assets: Digital paintings, traditional art, photographs, sketches, concept art, blueprints, screenshots, games, videos, GIFs, materials, textures, colors, shapes, models, sounds, music, voices, and dialogues (including audio cues).
 
 ### Application
-- Collect all the visual data and put them together in a folder, collage, general collection
-- You can mix them together and take snippets out of the data or leave them as they are
-- Store them in a place that is easily accessible for your team and think about collaboration, do you want others to participate in the collection? Would you rather show and present your ideas?
+
+- Collect all the visual data and compile it into a folder, collage, or a general collection.
+- You can mix, edit, or leave the visual data as they are.
+- Store them in an easily accessible location for your team, considering whether others should participate in the collection process or if you prefer to present your ideas.
 
 ### Output
-- Mood board that sets a certain tone, aesthetic, mood, easily communicates your idea through visuals
+
+- A mood board that conveys a specific tone, aesthetic, and mood, effectively communicating your vision through visuals.
 - [[Collection]]
 
-### When to use it
-- Share your vision
-- Coordinate and collaborate on a shared vision
-- Enable your creativity
-- Planning process and always refer back to it to know what your initial idea is
+### When to Use It
 
-### Relevant Roles using this model
-- #roles/designer [[Designer]] #used-by/designer 
-- #used-by/artist [[Artist]] (also created by designer?)
+- When you want to convey and share your vision.
+- When you need to coordinate and collaborate on a shared aesthetic and vision.
+- To spark creativity and enable a collaborative exploration of the game's visual direction.
+- Throughout the planning process, and as a reference to maintain your initial concept.
 
-## Relevancy in the following processes
-- [[Game Development]] in the planning process
-- [[Prototyping]] What you want to create
+### Relevant Roles Using This Model
+
+- #roles/designer [[Designer]] #used-by/designer
+- #roles/artists  [[Artist]] #used-by/artist 
+
+## Relevance in the Following Processes
+
+- [[Game Development]] during the planning process.
+- [[Gamespace Prototyping]] to clarify your creative goals.
+- [[Combat Design]] to design the enemy types and their aesthetics.
 
 ## Applicability
-- As coordination tool: Set the scene, provide a direction you want to go in aesthetically, use as reference
-- As creative freedom: Get ideas, interpretations are different depending on the person interpreting it, get inspired, express yourself and find the signature aesthetic of your game
-- But it's only a reference, don't copy a game 1:1! Let yourself get inspired by it rather than getting stuck on already existent material (that's why you collect lots of reference)
+
+- As a coordination tool: Define the scene, provide an aesthetic direction, and offer references.
+- For creative freedom: Gather ideas, invite diverse interpretations, seek inspiration, express your vision, and discover your game's signature aesthetic.
+- Remember that it serves as a reference and should not be used for direct copying. Instead, let it inspire you rather than hinder your creativity with existing material.
 
 ### Pros and Cons
 
-Pros:
-- Starting somewhere (easier to start with existent material)
-- Expanding your creativity
-- communication and coordination tool (artists and designers have a direction)
+**Pros**:
 
-Cons:
-- not feasible, nothing you can test
-- just artistic direction and creativity, nothing practical
-- limited on visual and audible cues (actually not, you can also take books as part of a mood board)
+- Provides a starting point, making it easier to begin with existing material.
+- Expands your creative thinking and encourages exploration.
+- Serves as a communication and coordination tool, helping artists and designers align their direction.
+
+**Cons**:
+
+- Not practical or testable; it primarily addresses artistic direction and creativity.
+- Limited to visual and auditory cues (although books can also be part of a mood board)
 
 ## Relation with other Methods
 - [[Reference Collection]] 
+- Referenced in a [[Game Design Document]]
+- Defines the look of the game world and is used by [[Drawing a Map]]
+- Can be influenced by [[Lenses]]
+- Influences [[Symbols and Visual Language]]
 
 ## Examples
-- ![](https://i.imgur.com/Rh6daFL.jpeg)
-  a mood board proposal for concept art on a game by Eduardo (https://medium.com/untitled-game-design-game/mood-boards-for-concept-art-b1013d51b510)
 
-- ![](https://i.imgur.com/vgWACaL.jpeg)
-  a mood board for sci-fi farming (https://simonstalenhag.se/ , https://cc0textures.com/ , https://www.artstation.com/hamfish , https://twitter.com/thisnorthernboy , https://www.instagram.com/thisnorthernboy/)
+- A Mood Board proposal for concept art of a game, created by Eduardo
+  ![](moodboardenrico.jpeg)
+  _(Source: [link](https://medium.com/untitled-game-design-game/mood-boards-for-concept-art-b1013d51b510))
+
+- A mood board for Sci-Fi farming
+  ![](moodboardscififarming.jpeg)
+ _(Sources: [1](https://simonstalenhag.se/), [2](https://cc0textures.com/), [3](https://www.artstation.com/hamfish) , [4](https://twitter.com/thisnorthernboy) , [5](https://www.instagram.com/thisnorthernboy/))_
 
 ## Relevant Tools
-- #tools/digital [[Digital Design Tools]] , [[Digital Collection Tools]] (Pinterest) (Artstation)
+
+- #tools/digital [[Digital Art Tools]] , [[Digital Collection Tools]] (Pinterest) (Artstation)
 - #tools/non-digital [[Non-digital Design Tools]] (Sketches & Drawings)
 
 ## Relevant Literature
 
-Endrissat, N., Islam, G., & Noppeney, C. (2016). Visual organizing: Balancing coordination and creative freedom via mood boards. Journal of Business Research, 69(7), 2353-2362.
-https://www.sciencedirect.com/science/article/pii/S0148296315004270
+[[Visual organizing - Balancing coordination and creative freedom via mood boards]]
 
 

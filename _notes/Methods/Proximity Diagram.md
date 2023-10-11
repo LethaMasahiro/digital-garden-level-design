@@ -12,88 +12,95 @@ also known as:
 - #used-by/designer #used-by/artist #used-by/engineers 
 - #tools/digital #tools/non-digital 
 
-## Intent
-- Same as Molecule DIagrams
-	- Structure the level in a more detailed language-coded way
-	- Spatial overview of the level
-	- Know where to put level objects, gates, fights and where to set your gameplay beats and story points in a spatial sense
-	- Create dynamic between story and space
-- Organize space requirements together with space allocation
+#### Intent
+
+- Similar to Molecule Diagrams.
+    - Structuring the level using a detailed, language-coded approach.
+    - Providing a spatial overview of the level.
+    - Determining the placement of level objects, gates, encounters, gameplay beats, and story points in a spatial context.
+    - Establishing a dynamic relationship between narrative and space.
+- Coordinating space requirements alongside space allocation.
 
 ## Problem
 
-### General
-- Describe spatial relations with their individual meanings as well (e.g. describe their size or importance)
-
-### Specific
-- Connect game spaces within the level by their importance
-- Describe the size of the game spaces
+- In contrast to Molecule Diagrams, you specifically want to describe spatial relationships, e.g. the size of the rooms/game spaces or the connection of specific rooms
+- Establishing connections between game spaces within the level based on how important their connection is.
 
 ## Solution Approach
 
-- Create a [[Methods/Molecule Diagram]] but transfer meaning with the size of the bubbles and links as well
-- Use all tips from the Molecule Diagram but give the diagram more meaning
+- Create a [[Molecule Diagram]] but convey additional meaning through node size and connections.
+- Utilize all the principles of the Molecule Diagram while enhancing its meaning.
 
 ## Application
 
 ### Input
-- Decision which gamespaces you have in your level and what you want to give additional information for
-- Pen and Paper or digital tool
-- Graph theory knowledge
+
+- Decisions regarding which game spaces are present in the level and require additional information.
+- Pen and paper or digital tools.
+- Knowledge of graph theory.
 
 ### Application
 
-- Draw a Molecule Diagram
-  
-- But adapt the sizes of the nodes according to
-	- The size of the game space according to spatial metrics (e.g. rooms of 50m² are drawn bigger than rooms with 30m²)
-	- The importance of the gamespace to the level
-	  
-- Thicken the connections between the nodes according to how important their conenction is
-	- Use different line types to symbolize if one space can be reached by the other (normal line) only seen from the other (dashed lines). Be creative about it and only draw what you want to communicate
-	  
-- Use the tips from Molecule Diagrams
+- Construct a Molecule Diagram.
+    
+- Adjust the sizes of nodes based on:
+    
+    - Spatial metrics, such as larger representations for rooms of 50m² compared to rooms of 30m².
+    - The significance of the game space within the level.
+      
+- Modify the thickness of connections between nodes to reflect their importance.
+    
+    - Utilize different line types to signify accessibility between spaces (normal lines) or one-way visibility from one space to another (dashed lines). Apply creativity and only depict what you wish to communicate.
+      
+- Apply the tips and principles from Molecule Diagrams.
+    
+
 ### Output
-- A proximity [[Diagram]]
-- The interpretation of the diagram (e.g. a [[Map]])
 
-### When to use it
-- #process/planning 
-- #process/designing 
-- When you would like to give the Molecule Diagram extra meaning
+- A proximity [[Diagram]].
+- An interpretation of the diagram, such as [[Map]].
 
-### Relevant Roles using this model
--  #roles/designer  [[Designer]] #used-by/designer 
--  [[Artist]] #used-by/artist 
--  [[Engineer]] #used-by/engineers 
+### When to Use It
 
-## Relevancy in the following processes
-- [[Prototyping]]
-- [[Game Development]] Planning and designing
+- In the planning and designing phases.
+- When you want to imbue a Molecule Diagram with additional layers of meaning.
+
+### Relevant Roles Using This Model
+
+- #roles/designer [[Designer]] #used-by/designer
+- [[Roles/Artist]] #used-by/artist
+- [[Engineer]] #used-by/engineers
+
+## Relevance in the Following Processes
+
+- [[Gamespace Prototyping]]
+- Planning and designing phases of [[Game Development]]
 - [[Combat Design]]
 
 ## Applicability
-- see [[Methods/Molecule Diagram]] with more details
+
+- Similar to the [[Molecule Diagram]], with added details.
 
 ### Pros and Cons
-- see [[Methods/Molecule Diagram]]
 
-## Relation with other Methods
-- closely related with [[Methods/Molecule Diagram]]
-- [[Drawing a Map]] as an end product after drawing the diagram
+- Similar to the [[Molecule Diagram]].
 
+## Relation with Other Methods
+
+- Closely related to the [[Molecule Diagram]].
+- May lead to [[Drawing a Map]] as a subsequent step after constructing the diagram.
+  
 ## Examples
 
-- One example of transfering a Proximity Diagram to a Map
-  
-  ![](https://i.imgur.com/2QC8j4Q.png)
-  Totten p.133
+- One example of transferring a Proximity Diagram to a Map
+  ![](proximitydiagram.png)
+  _(Source: [[Totten 2019 - An Architectural Approach of Level Design]], p.133)_
 
 ## Relevant Tools
-- See [[Methods/Molecule Diagram]]
+- See [[Molecule Diagram]]
 
 ## Relevant Literature
 
-[[Totten 2019 - An Architectural]]
+[[Totten 2019 - An Architectural Approach of Level Design]]
 
-https://www.gamedeveloper.com/design/the-metrics-of-space-molecule-design
+[[The Metrics of Space - Molecule Design]]

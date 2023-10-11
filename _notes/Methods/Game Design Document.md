@@ -1,5 +1,21 @@
 ---
 title: Game Design Document
+tags:
+  - method
+  - medium/text
+  - roles/writer
+  - roles/designer
+  - roles/engineers
+  - roles/manager
+  - roles/artists
+  - used-by/designer
+  - used-by/writer
+  - used-by/engineers
+  - used-by/artist
+  - used-by/manager
+  - tools/non-digital
+  - tools/digital
+aliases:
 ---
 
 
@@ -13,50 +29,51 @@ also known as:
 - #tools/non-digital #tools/digital 
 
 ## Intent
-- mapping out your ideas of the game and sort them
-- explore the WHY behind your game and always have access to it so you don't get lost in it
-- Guidance through the game development process
-- map design decisions
+
+- Mapping out your game ideas and organizing them.
+- Exploring the WHY behind your game and maintaining access to it to avoid losing sight of the vision.
+- Providing guidance throughout the game development process.
+- Making informed design decisions.
 
 ## Problem
 
 ### General
-- With every project, it's important to document changes and descisions somewhere to always get back on track
-- Communicating within a team becomes easier if the vision is written down somewhere
-- Documentation needed especially for Waterfall development methods
+
+- In every project, it's vital to document changes and decisions to stay on course.
+- Effective team communication becomes easier when the game's vision is documented.
+- Documentation is particularly crucial for Waterfall development methods.
 
 ### Specific
-- Sometimes you lose the WHY after working on a game project for so long
-- Where do you start? Do you need a guide that guides you through the process of designing a game?
-- The entire team has to be on the same path and talk about the same things.
-- You might forget what you wanted to work on next
-- The more complex the game is, the harder it is to keep the concept in your head
-- Publishers expect you to present some form of documentation together with your game (https://www.codecks.io/blog/2020/writing-modern-game-design-documents/#why-use-game-design-documents)
+
+- Over time, it's easy to lose sight of the WHY behind a game project.
+- Knowing where to start can be challenging. Do you need a guide to lead you through the game design process?
+- Ensuring the entire team is aligned and discussing the same concepts is crucial.
+- Ideas can be forgotten, causing uncertainty about what to work on next.
+- As games become more complex, maintaining the entire concept in your head becomes increasingly challenging.
+- Publishers expect you to present some form of documentation together with your game (_Source: [link](https://www.codecks.io/blog/2020/writing-modern-game-design-documents/#why-use-game-design-documents)_)
 
 ## Solution Approach
 
-### General
-
-### Specific
-- Create a Game Design document where your concept, the reason for the game and a step-by-step guide on how to plan the game is written down
-- All about making design decisions
-- Always think about "what needs to be remembered and what needs to be communicated" (Schell)
-- There are many different kinds of documents specified for different roles, there's not THE game design document
+- Create a Game Design Document that includes your concept, the rationale behind the game, and a step-by-step guide for planning the game.
+- Focus on making design decisions.
+- Always consider "what needs to be remembered and what needs to be communicated" ([[Schell 2014 - A Book of Lenses]]).
+- Note that there are various types of documents tailored to different roles; there isn't a single standard Game Design Document.
 
 ## Application
 
 ### Input
-- first, you have the decisions you want to write down and communicate
-- Blank document that has to be filled
+
+- Decisions you want to document and communicate.
+- A blank document to be filled.
 
 ### Application
 
--  General guidelines for your documentation (https://www.codecks.io/blog/2020/writing-modern-game-design-documents/#why-use-game-design-documents):
+-  General guidelines for your documentation ([Why use Game Design Documents](https://www.codecks.io/blog/2020/writing-modern-game-design-documents/#why-use-game-design-documents)):
 	- Keep it minimal
 	- Documents become outdated quickly, so in case the document doesn't catch up, let the game be your document. Use it as a reference rather than as a separate document that gets forgotten quickly.
 	- Use it as part of your project management. Put all mechanics and designs along other daily bugs in your project management tool to integrate them in the process rather than handling them as separate tools. 
 	  
-- A guideline of how a game design document can look like excluding marketing and business sections (https://dev.to/garrett/a-game-design-document-gdd-tutorial-that-will-save-you-time-and-energy-238n):
+- A guideline of how a game design document can look like excluding marketing and business sections ([A GDD Tutorial](https://dev.to/garrett/a-game-design-document-gdd-tutorial-that-will-save-you-time-and-energy-238n)):
 	1. First Page: 
 		- Start with the name of the game
 		- Add your team's name
@@ -73,7 +90,7 @@ also known as:
 		- Instead of putting images in the document, link them and put them in a separate folder
 		- Save the different versions of your document instead of overwriting them
 
-- Here is another guideline of a Game Design Document (https://www.gamedeveloper.com/business/how-to-write-a-game-design-document):
+- Here is another guideline of a Game Design Document ([How to write a Game Design Document](https://www.gamedeveloper.com/business/how-to-write-a-game-design-document)):
 	1. Project Description: Briefly summarise what the game is about.
 	2. Characters: Describe your characters before your describe the plot. Add characteristics to the characters and describe how they look.
 	3. Story: Describe the Story behind your game and guide the reader through the important events happening. You can also write about the genre and recurring themes of your story.
@@ -85,7 +102,7 @@ also known as:
 		4. Items and Power-ups: Which items can be collected and interacted with? Do they give a buff or have a negative impact impact on the player?
 		5. Progression and challenge: How will the difficulty increase, which tools help the player catch up to the difficulty, how will the game difficulty feel after a certain time?
 		6. Losing: What are the losing conditions, how do you treat losing? Where are the save points, how much does the player lose upon a game over screen?
-	6. Art style: How does your game look like? Her you can also refer to [[Reference Collection]] and [[Mood Boards]]
+	6. Art style: How does your game look like? Here you can also refer to [[Reference Collection]] and [[Mood Boards]]
 	7. Music and Sounds: Often overlooked, it is important to define Music and Sound to describe the atmosphere of your game.
 	8. Technical Description: Describe the platform and the tools you're using to develop the game. For a detailed Technical Description, create a Technical Design document instead.
 	9. Marketing and Funding: How do you plan on funding your project? How do you advertise it? This is important even before starting your game development. This also includes:
@@ -94,7 +111,7 @@ also known as:
 		3. Localization: Which languages do you support?
 	10. Other ideas: Add anything that was missing in the previous sections.
 	    
-- getting more specific: Depending on the role and the section in which you need the document, decide on which type of document you need (Schell)
+- Getting more specific: Depending on the role and the section in which you need the document, decide on which type of document you need (_Source: [[Schell 2014 - A Book of Lenses]]_)
   
 	- Design:
 	  
@@ -110,10 +127,10 @@ also known as:
 	- Art: 
 	  
 		- ###### Art Bible: #roles/artists #used-by/artist 
-		  Written from [[Artist]] to [[Artist]], provides consistency and guidelines on the artwork of the game
+		  Written from [[Roles/Artist]] to [[Roles/Artist]], provides consistency and guidelines on the artwork of the game
 		  
 		- ###### Concept Art Overview: #roles/artists #used-by/designer 
-		  Written by [[Artist]] to [[Designer]], set of images that show how the game will look and feel like in the context of the game design 
+		  Written by [[Roles/Artist]] to [[Designer]], set of images that show how the game will look and feel like in the context of the game design 
 		  
 	- Engineering: 
 	  
@@ -121,10 +138,10 @@ also known as:
 		  Written by [[Engineer]] to [[Engineer]], technical details that are recorded in a document to establish consistency over the whole engineering team, important to have the system architected and documented
 		  
 		- ###### Pipeline Overview: #roles/engineers #used-by/artist 
-		  Written from [[Engineer]] to [[Artist]], how to integrate the assets into the game
+		  Written from [[Engineer]] to [[Roles/Artist]], how to integrate the assets into the game
 		  
 		- ###### System Limitations: #roles/engineers #used-by/designer #used-by/artist 
-		  Written by [[Engineer]] to [[Designer]] and [[Artist]], state the limitations of the systems (e.g. number of polygons in one frame)
+		  Written by [[Engineer]] to [[Designer]] and [[Roles/Artist]], state the limitations of the systems (e.g. number of polygons in one frame)
 		  
 	- Management: 
 	  
@@ -151,51 +168,58 @@ also known as:
 		  Written by [[Player]] to [[Player]], self-made guides through the game that are published through social media and websites, often written when it's already too late to change the game since it has already been published
 
 ### Output
-- A Game Design Document, [[Document]]
-- Or other documents depending on which ones you want to use
+
+- A Game Design Document
+- Or other [[Document]]s  with text, depending on which ones you want to use
 
 ### When to use it
-- Communicating with your team, updating new team members and establishing a certain consistency throughout the development process
-- Prepare for publishing contracts
-- Guide your team through the development
-- Write down ideas before starting the development process
+
+- For effective team communication, updating new team members, and ensuring consistency throughout development.
+- When preparing for publishing contracts.
+- To guide your team through the development process.
+- To document ideas before commencing development.
 
 ### Relevant Roles using this model
+
 - #roles/designer [[Designer]] #used-by/designer 
-- #roles/artists  [[Artist]] #used-by/artist 
+- #roles/artists  [[Roles/Artist]] #used-by/artist 
 - #roles/manager [[Manager]] #used-by/manager 
 - #roles/engineers [[Engineer]] #used-by/engineers 
 - #roles/player [[Player]] #used-by/player 
 - #roles/writer [[Writer]] #used-by/writer 
 
 ## Relevancy in the following processes
-- [[Game Development]]
-- [[Prototyping]] ??
+
+- [[Game Development]], implemented and used in all process steps
+- [[Combat Design]] should be documented in a Game Design Documented
+- All maps created in [[Iterative Map Design]] can be stored along with the Game Design Document
 
 ## Applicability
-- For a strict waterfall model, it's good to document every step and declare which steps to do next
-- But for Agile Development (the current trend of game development) critical voices get loud. People claim that Game Design Documents are not needed anymore since it's obsolete and no one updates them so they become outdated very quickly (reference from one of the websites)
-- It is also said that Game Design Documents are a practice from the past (https://www.gamedeveloper.com/business/how-to-write-a-game-design-document).
-- Using a lot of images and making the document visual might improve its readability
+
+- In a strict waterfall model, it's beneficial to document each step and declare the next steps to follow.
+- For Agile Development (the prevailing trend in game development), some argue that Game Design Documents are no longer necessary as they can quickly become outdated when not regularly updated (reference from one of the websites).
+- Some consider Game Design Documents to be a practice from the past ([link]([https://www.gamedeveloper.com/business/how-to-write-a-game-design-document](https://www.gamedeveloper.com/business/how-to-write-a-game-design-document))).
+- Others believe that Game Design Documents lack standardaziation and formalization [[A Systematic Review of Game Design Methods and Tools]].
+- Improving document readability by incorporating images and visual elements might be advantageous.
 
 ### Pros and Cons
 
-Pros:
-- Serves as a guidance and maintains the values and most important aspects of the game throughout the whole development process
-- Transparency within the team since every member's knowledge of the game is written down and passed to other members
-- Defines the scope of your game
-- Basis of negotiation for business contracts
-- Supports waterfall model
+**Pros**:
+- Provides guidance and maintains the game's core values throughout the development process.
+- Enhances transparency within the team by documenting each member's knowledge of the game.
+- Defines the game's scope.
+- Serves as a basis for negotiating business contracts.
+- Supports the waterfall model.
 
-Cons: 
-- Synchronizing the Game Design Documents with the project is hard since the production is faster than the documentation process
-- Often too long to read and exhausting to maintain
-- A good idea on paper does not have to be a good idea in practice and can foster false confidence towards the actual product
-- Might be an outdated approach for some and doesn't align well with Agile developing because of the continuous changes
+**Cons**: 
+- Synchronizing Game Design Documents with the project can be challenging, as production often outpaces the documentation process.
+- Documents are often lengthy and demanding to maintain.
+- A concept that looks good on paper may not work well in practice and can lead to unfounded confidence in the final product.
+- Might be considered outdated by some and may not align seamlessly with Agile development due to ongoing changes.
 
 ## Relation with other Methods
 
-The following can all be part of the created document:
+The following can all be part of the created document (this is not a complete list):
 
 - [[Reference Collection]]
 - [[Mood Boards]]
@@ -204,29 +228,36 @@ The following can all be part of the created document:
 - [[Behavior Diagram]]
 - [[Pacing Diagram]]
 - [[Pillars, Goals and Features]]
+- [[Critical Path Analysis]]
+- [[Behavior Diagram]]
+- [[Symbols and Visual Language]]
 
 ## Examples
-- The original [[Diablo Game Design Document]]
-- The detailed [[Prince of Persia Documentation and Design Bible]]
+- The original [[Diablo Game Design Document]] 
+- The detailed [[Prince of Persia Design Bible]]
 - The [[Doom Bible (GDD)]]
 
 ## Relevant Tools
+
 - An open and collaborative digital tool like Google Docs (link) or Nuclino for a more visual approach
 - [[Digital Collection Tools]]
 
 ## Relevant Literature
 
 
-https://dev.to/garrett/a-game-design-document-gdd-tutorial-that-will-save-you-time-and-energy-238n
+[[GDD Tutorial]]
 
-https://www.gamedeveloper.com/business/how-to-write-a-game-design-document
+[[How to write a Game Design Document]]
 
-https://www.codecks.io/blog/2020/writing-modern-game-design-documents/#why-use-game-design-documents
+[[Why use Game Design Documents]]
 
-https://www.nuclino.com/articles/write-game-design-document
+[[Write Game Design Document]]
 
-LD -In Pursuit of better level design (https://docs.google.com/document/d/1fAlf2MwEFTwePwzbP3try1H0aYa9kpVBHPBkyIq-caY/edit)
+[[Game Design Document Website]]
 
-Schell - A book of lenses
+[[TychoBolt (K., Alex) 2020 - In Pursuit of Better Levels]]
 
-https://www.gamedesigning.org/learn/game-design-document/
+[[Schell 2014 - A Book of Lenses]]
+
+[[A Systematic Review of Game Design Methods and Tools]]
+

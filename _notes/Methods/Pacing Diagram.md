@@ -1,5 +1,18 @@
 ---
 title: Pacing Diagram
+tags:
+  - method
+  - medium/diagram
+  - medium/visual
+  - tools/non-digital
+  - tools/digital
+  - roles/designer
+  - used-by/designer
+  - process/planning
+  - process/designing
+  - roles/writer
+  - used-by/writer
+aliases:
 ---
 
 also known as: 
@@ -17,160 +30,172 @@ also known as:
 
 ## Intent
 
-- Layout your level with a story structure that keeps the player's attention
-- Alternate between high packed intense gameplay and exploration, let the player breathe
-- Communicate your vision with your team
+- Structure your level with a story narrative that maintains player engagement.
+- Achieve a balance between intense gameplay sequences and exploration to maintain player interest.
+- Effectively communicate your creative vision with your team.
 
 ## Problem
 
-In General: 
-- A level follows a story narrative (idea: three act structure). It's important to plan your level ahead of production to keep your intent through the whole level and connect it with other levels on a bigger scale.
-- Players might feel too pressured when the scene is too packed or they lose interest when nothing is happening.
-- getting "the tempo and the rhythm" of your game right
-- comparison to music: An interesting music piece changes over time
+### General
 
-Concrete: 
-- create a level with a boss fight, pushing them directly into the fight will cause discomfort and frustration or anxiety
-- keeping the tension on one level without increasing or decreasing it will cause boredom
-- increasing the pacing linearly might be too predictable
+- Planning a level to align with a story narrative, such as the three-act structure, is essential to maintain your vision throughout production and connect it with other levels on a broader scale.
+- Players may feel overwhelmed if a scene is too densely packed, or they may lose interest when nothing significant is happening.
+- Ensuring that the tempo and rhythm of your game are fitting with the game and the player.
+- Drawing parallels to music: An interesting music piece changes over time.
+
+### Specific
+
+- Creating a level with a boss fight and thrusting players directly into the battle can lead to discomfort, frustration, or anxiety.
+- Maintaining tension at a constant level without variation can result in player boredom.
+- Linearly increasing pacing may become too predictable.
 
 ## Approach/ Solution
 
-- use the three-act structure and write it down on a timeline.
-	- First act: The setup of the plot
-	- Second Act: The confrontation
-	- Third Act: The resolution
+- Utilize the three-act structure and document it on a timeline.
+    - First Act: The setup of the plot.
+    - Second Act: The confrontation.
+    - Third Act: The resolution.
 
-![](https://i.imgur.com/mg3KXr1.png)
-(Three-act-structure, https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/level-design-pacing-gameplay-beats-part1.php)
+![Three-act-structure](Three-act-story.png) _(Source: [World of Level Design](https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/level-design-pacing-gameplay-beats-part1.php))_
 
-- Three core elements:
-	- Intensity (combat is high intensity, exploration or puzzles low intensity)
-	- Variety (monotone levels are boring)
-	- Time (if a level takes too long people don't finish it)
-
-- Think of pacing as a music piece: It includes a 
-	- rhythm (tempo of the game), 
-	- Flow/Melody (how monotone your pacing is or sudden it changes), Harmony (how the gameplay and story elements work together), 
-	- the form (choruses are louder and require more attention just like big fights or moments in your story), 
-	- Timbre (the instrument that is playing the note, the quality of the note -> transfers to the mechanics used in that Gameplay beat), 
-	- Dynamics (how loud your beat is, how many enemies, how aggressive), 
-	- Texture (how complex your gameplay is, try to keep it on a mangeable level)
-
-- Gameplay Beats: main events and activities that are part of your level and that keep your story interesting
+- Pacing consists of three core elements:
+    - Intensity (combat is high intensity, exploration or puzzles are low intensity).
+    - Variety (monotone levels are boring).
+    - Time (if a level takes too long, players may not finish it).
+    
+- Think of pacing as a music piece: It includes elements like
+    - Rhythm (the game's tempo).
+    - Flow/Melody (variation in pacing).
+    - Harmony (how gameplay and story elements work together).
+    - Form (emphasis on big moments).
+    - Timbre (the unique quality of gameplay mechanics).
+    - Dynamics (intensity, enemy numbers, aggression).
+    - Texture (complexity of gameplay).
+      
+- **Gameplay Beats**: Main events and activities in your level that maintain player interest.
 
 ## Application
 
 ### Input
 
-- an idea you have in your head
-- knowledge about the story structure of the level (three-acts?) and gameplay beats
-- pen and paper or a digital tool that helps visualizing your diagram
+- An idea of the narrative in your head.
+- Knowledge about the level's story structure (e.g., three acts) and gameplay beats.
+- Pen and paper or a digital tool to visualize your diagram.
 
-### Application 
+### Application
 
-- visual level timeline: write down the story structure on a timeline and add the gameplay beats. Color-code certain repeated patterns in your level. (e.g. Tutorials in green). Add hard-gates to further structure your level.
-- ![](https://i.imgur.com/fN3x7GN.png)
-  (KZM building a pacing graph, https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/level-design-pacing-gameplay-beats-part1.php)
+- Create a visual level timeline by documenting the story structure on a timeline and adding gameplay beats. Use color-coding for specific recurring patterns in your level (e.g., tutorials in green). Add hard gates (Def.: Narrative sections that have to be triggered by the player to further advance in the level) to further structure your level.
+
+![Level Timeline](tutorial-pacing.png) _(Source: [World of Level Design](https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/level-design-pacing-gameplay-beats-part1.php))_
+
+![Hard Gates](hard-gates-pacing.png) _(Source: [World of Level Design](https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/images/pacing-gameplay-beats-part1-13-large.jpg))_
+
+- Represent your pacing on a line stretching across your story structure (three acts) on a timeline.
+- Alternatively, represent pacing in boxes:
+
+![Box Pacing Diagram](pacing-boxes.png) _(Source: [[TychoBolt (K., Alex) 2020 - In Pursuit of Better Levels]])_
+
+- Strive for non-monotonic pacing that keeps player attention while allowing for smooth level progression without losing tension.
+- Vary your pacing; more pronounced differences between high and low pacing can create a dynamic and engaging experience or be overwhelming.
+- Remember that every player has their own pace, unlike movies where pacing is linear and consistent for all viewers.
+- Expect a fair amount of trial and error. Experiment with various approaches, discuss, and revise accordingly.
+- Ensure that the pacing matches the overall tone of your game and aligns with other levels, considering both broad and specific connections.
+
+#### Non-linear Pacing Diagrams
+
+- Your level flow doesn't have to be linear; it can include alternative routes based on player decisions or specific trigger points.
+- To control the overall pacing, divide the level areas into beats. Define and combine several linear pacing diagrams if necessary.
+	  
+	![](pacinggameplaybeats.png)
+	_(Source: [[TychoBolt (K., Alex) 2020 - In Pursuit of Better Levels]])_
+	  
+- In an open world, consider restricting areas to players, for example entry areas. This helps directing the pacing for the player, at least to a certain amount. 
+
+#### X/Y axis Pacing Diagram
+
+- Plot two variables against each other on an x and y axis to analyze their connection and how they work together
+- For example, analyze how intense the **gameplay** becomes over **time**
+- Sort the narrative in categories and analyze when these categories appear in the narrative over time and how high their intensity is
   
-  ![](https://i.imgur.com/AeffynM.png)
-  (Hard gates, https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/images/pacing-gameplay-beats-part1-13-large.jpg)
-- Write your pacing in a line stretching over your story structure (three-acts?) on a timeline
-- Can also be written in boxes:
-  ![](https://i.imgur.com/cB7uoGW.png)
-  (TychoBolt 2020)
-- Try to think of a non-monotonic pacing that keeps the attention of the player and that makes it easy to flow through your level without losing tension
-- vary your pacing. more extreme differences between high and low pacing might create a more dynamic and interesting experience or it might be too much for your level.
-- keep in mind the gameplay beats where the pacing increases and the exploration parts that allow the player to breathe
-- also keep in mind that every player has their own pace, it's not like movies where the pacing is linear and everyone has the same experience
-- much trial and error, try many approaches and discuss and remodel it
-- match it with the overall tone of your game and connect it to other levels (from big overall to more specified)
+  ![](pacingxyaxis.png)
+  _(Plotting the categories "Explore", "Combat", "Puzzle" and "Choreo" against each other for the White Forest Inn encounter in "Half-Life 2: Episode Two". Source: [link](https://book.leveldesignbook.com/process/preproduction/pacing))_
 
 
 ### When to use this method
 
-- #process/designing 
-- designing your level, design phase
-- good base for further details in your level, good to have it set beforehand
-- 
+- During the design phase when crafting your level.
+- Provides a solid foundation for further level details and is beneficial to have established in advance.
 
 ### Relevant Roles using this model
-- #roles/designer 
-- [[Designer]] game Designer
+- #roles/designer [[Designer]] #used-by/designer 
+- #roles/writer [[Writer]] #used-by/writer 
 
 ### Output
-- #medium/diagram 
-- A [[Diagram]] that clearly shows the pacing of your level,  can be a [[Graph]] too
-- #medium/timeline
-- See example with x/y axis pacing diagram, it follows the flow of time, [[Timeline]]
+- A [[Diagram]] or [[Graph]] that clearly illustrates the pacing of your level.
+- A [[Timeline]] may also be used to represent a pacing diagram. See the example of an x/y axis pacing diagram.
 
 ## Relevancy in the following Processes:
-- ??
-- [[Game Development]] designing step, can be applied to Games Engineering Designing step (still need a file for that)
+- [[Game Development]] planning and designing step
+- [[Combat Design]] utilizes a pacing diagram to define when a combat sequence will take place.
+- [[Gamespace Prototyping]] when creating charts (second step) and drawing a map (third step)
+- May help [[Iterative Map Design]] to define pacing in the level
 
 ## Applicability
-- The output is a good way to communicate visions to your team
-- everyone can understand since the visual language is easy to understand
-- good in the design process and applicable in both agile and waterfall approaches since you have a set document in the end
-- good to iterate over it but once you start building your level it should be fixed (?)
-- you need to know your gameplay beats before so that you can match it with your pacing
-- What if you have alternate routes? How will your pacing change then? -> non-linear pacing
+
+- The output serves as an effective means of communicating your vision to the team.
+- Easy to understand by everyone, fostering clarity in the level design process.
+- Suitable for both agile and waterfall approaches, as it provides a fixed document for reference.
+- Excellent for iteration but may need to be finalized once level building begins.
+- Requires prior knowledge of gameplay beats to align with pacing.
+- Complexities arise when considering alternate routes; non-linear pacing can be challenging to implement.
 
 ### Pros and Cons
 
-Pros: 
-- easy to understand
-- set document that can be referenced to at any point
-- clear language that supports the process of level designing
-- quick work with a lot of impact
+**Pros**: 
 
-Cons:
-- might be too abstract if you don't define the gameplay beats beforehand
-- doesn't include the player's individual behavior and might not work out in the end (it's only on paper anyways)
-- it's difficult to set pacing in an open world
+- Easy to understand
+- Fixed document that can be referenced to at any point
+- Clear language that supports the process of level designing
+- Quick work with a lot of impact
+
+**Cons**:
+
+- Might be too abstract if you don't define the gameplay beats beforehand
+- Doesn't include the player's individual behavior and might not work out in the end (it's only on paper anyways)
+- It's difficult to set pacing in an open world
 
 ### Relations with other methods
-- [[Behavior Diagram]] ?
-- [[Reward Schedule]] ? 
-- see [[Nintendo Power Method]]
+- [[Behavior Diagram]] 
+- [[Reward Schedule]] 
+- [[Nintendo Power Method]] analyzes the pacing
+- [[Symbols and Visual Language]]
+- [[Game Design Document]]
+- [[Behavior Diagram]]
 
 ## Examples
 
-Uncharted Pacing Graph:
+- Uncharted Pacing Graph:
+  ![](UnchartedPacing.png)_(Source: [link](https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/level-design-pacing-gameplay-beats-part3.php))_
 
-
-![](https://i.imgur.com/QxHzHzb.png)
-(Uncharted Pacing Graph, https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/level-design-pacing-gameplay-beats-part3.php)
-
-Halls of Justice Pacing Graph:
-
-![](https://i.imgur.com/LnZRBMM.png)
-(https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/level-design-pacing-gameplay-beats-part3.php)
-
-
-## Non-linear Pacing Diagrams
-TODO
+- Halls of Justice Pacing Graph:
+  ![](halls-of-justice-pacing.png)
+  _(Source: [link](https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/level-design-pacing-gameplay-beats-part3.php))_
 
 ## Relevant Tools
 
-- some [[Digital Diagram Tools]] 
-- pen and paper
+- Some [[Digital Diagram Tools]] 
+- [[Non-digital Design Tools]] like pen and paper
 - [[Communication Tools]] like teams/slack
-- [[Storage Tools]] or folder structure to put save your diagrams in
+- [[Digital Collection Tools]] or folder structure to save your diagrams in
 
 ## Relevant Literature
 
-https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/level-design-pacing-gameplay-beats-part1.php
+[[Level Design - Pacing Gameplay Beats]]
 
-https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/level-design-pacing-gameplay-beats-part2.php
+Music Reference: [[Examining Game Pace - How Single Player Levels tick]]
 
-https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/level-design-pacing-gameplay-beats-part3.php
+[[TychoBolt (K., Alex) 2020 - In Pursuit of Better Levels]]
 
-Music Reference: https://www.gamedeveloper.com/design/examining-game-pace-how-single-player-levels-tick
+[[Totten 2019 - An Architectural Approach of Level Design]]
 
-@TychoBolt (K., Alex). (2020). “Level Design: In Pursuit of Better Levels”.
-https://docs.google.com/document/d/1fAlf2MwEFTwePwzbP3try1H0aYa9kpVBHPBkyIq-caY/edit
-
-Totten, C. W. (2019). Architectural Approach to Level Design. CRC Press.
-
-[[Totten 2019 - An Architectural]]
+[[Level Design Book]], [Pacing](https://book.leveldesignbook.com/process/preproduction/pacing) chapter

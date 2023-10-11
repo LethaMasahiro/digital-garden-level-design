@@ -1,0 +1,2 @@
+
+[https://orioldedios.github.io/Game-Design-Pillars/#:~:text=In%20essence%2C%20Game%20Design%20Pillars,that%20make%20a%20cohesive%20design](https://orioldedios.github.io/Game-Design-Pillars/#:~:text=In%20essence%2C%20Game%20Design%20Pillars,that%20make%20a%20cohesive%20design)

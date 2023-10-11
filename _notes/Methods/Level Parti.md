@@ -1,5 +1,16 @@
 ---
 title: Level Parti
+tags:
+  - method
+  - medium/visual
+  - medium/diagram
+  - roles/designer
+  - roles/artists
+  - used-by/designer
+  - used-by/artist
+  - tools/digital
+  - tools/non-digital
+aliases:
 ---
 
 
@@ -13,87 +24,104 @@ also known as:
 - #tools/digital #tools/non-digital 
 
 ## Intent
-- Form ideas quickly
-- Decide early on map designs and flows
+
+- Rapid idea generation.
+- Early determination of map designs and flows.
 
 ## Problem
 
 ### General
-- You want to develop the spatial layout of a building or space
-- No consideration of correct measurements needed, just a quick sketch
+
+- Need to develop the spatial layout of a building or space.
+- No need for precise measurements; a quick sketch is enough.
 
 ### Specific
-- You want to develop the spatial layout for your level
-- Before creating a map, you want to define the important milestones in the level or the objects filling out the level
+
+- Need to design the spatial layout for a level.
+- Want to define key milestones or objects within the level before creating a detailed map.
 
 ## Solution Approach
 
 ### General
-- sketch an architectural parti
+
+- Sketch an architectural parti.
 
 ### Specific
-- sketch your gameplay ideas as spatial diagrams, called level design parti
+
+- Sketch your gameplay ideas as spatial diagrams, referred to as level design partis.
 
 ## Application
 
 ### Input
-- A specific idea of what elements you want in your level or how your level should look like
+
+- A clear idea of the elements or appearance you want in your level.
 
 ### Application
-- Quickly draw many many sketches of that object/space
-- Draw from different perspectives, in different variations, with different lightning conditions until you find a version that you like (or multiple versions)
-- Don't take measurements into account
+
+- Quickly create multiple sketches of the object or space.
+- Draw from various perspectives, explore different variations, and experiment with different lighting conditions until you find a version you like (or multiple versions).
+- Do not concern yourself with precise measurements.
 
 ### Output
-- One or several level partis of the object/level you wanted to sketch
-- [[Sketch]]
+
+- One or several level partis depicting the object or level you intended to sketch.
+- [[Sketch]] or [[Drawing]].
 
 ### When to use it
-- Before sketching the map 
-- Right in the beginning of the design process when you start concretizing your ideas
+
+- Prior to mapping.
+- At the start of the design process when you are beginning to refine your ideas.
 
 ### Relevant Roles using this model
-- #roles/designer [[Designer]] #used-by/designer 
-- #roles/artists [[Artist]] #used-by/artist if they have enough freedom to design their world
+
+- #roles/designer [[Designer]] #used-by/designer
+- #roles/artists [[Roles/Artist]] #used-by/artist (if they have creative freedom to design the world).
 
 ## Relevancy in the following processes
-- [[Game Development]]
-- [[Combat Design]] for covers and spatial design
-- Used before [[Iterative Map Design]] to have an idea about the map
-- [[Prototyping]] when you want to understand and brainstorm on what to create
+
+- [[Game Development]] in the Design and early Development phase.
+- [[Combat Design]] for cover and spatial design.
+- Used before [[Iterative Map Design]] to get an initial idea of the map.
+- Useful in [[Gamespace Prototyping]] when you want to explore and brainstorm about what to create.
 
 ## Applicability
-- Perfect to get the ideas flowing and start somewhere
-- Might also be helpful if you're stuck
-- Unfit for later development stages where every design has to fit in the environment with its measurements and concrete guidelines
+
+- Ideal for stimulating idea generation and getting started.
+- Can be useful when you're feeling stuck.
+- Not suitable for later development stages where designs must adhere to specific measurements and guidelines.
 
 ### Pros and Cons
 
-Pros:
-- Quick to draw many partis
-- Easy to find one's flow when drawing many
-- Good exploration method to find alternative designs
+**Pros**:
 
-Cons:
-- No measurements
-- Only sketches so it still has to be built and put into place
-- Not an alternative for building a map but rather an extension
+- Quick creation of multiple partis.
+- Helps find your creative flow when generating many ideas.
+- Effective for exploring alternative designs.
+
+**Cons**:
+
+- Lack of precise measurements.
+- Limited to sketches; the final design still needs to be constructed.
+- Not a substitute for creating a full map, but rather a preliminary step.
 
 ## Relation with other Methods
-- [[Drawing a Map]] as a first step and good base to draw a map from
-- [[Nintendo Power Method]] as a base
+
+- [[Drawing a Map]] serves as an initial step and a solid foundation for drawing a map.
+- [[Nintendo Power Method]] can provide a basis.
+- [[Axonometric]] can apply measurements and scale to the drawn objects.
+- Real-world references collected in the [[Reference Collection]] can help depicting objects close to reality.
 
 ## Examples
 - Sketches of electric fence traps in SWARM!
   
-  ![](https://i.imgur.com/gdz5lYQ.png)
-  (Totten p.82)
-- Maybe own example?
+  ![](sketchlevelparti.png)
+  _(Source: [[Totten 2019 - An Architectural Approach of Level Design]], p.82)_
 
 ## Relevant Tools
 - [[Non-digital Design Tools]] like pen and paper for drawing
-- [[Digital Design Tools]] - Drawing application like Photoshop
+- [[Digital Art Tools]] - Drawing application like Photoshop
+- [[Digital Collection Tools]] to store the drawings
 
 ## Relevant Literature
 
-[[Totten 2019 - An Architectural]]
+[[Totten 2019 - An Architectural Approach of Level Design]]

@@ -1,84 +1,107 @@
 ---
 title: Gym Scene
+tags:
+  - method
+  - process/testing
+  - process/developing
+  - tools/digital
+  - roles/engineers
+  - roles/designer
+  - used-by/engineers
+  - used-by/designer
+aliases:
 ---
+
+Also known as: 
 
 ## Classification
 - #method 
-- Prototype
-- Testing
-- Level
-- Digital
+- #process/testing #process/developing 
+- #roles/designer #roles/engineers 
+- #used-by/engineers #used-by/designer 
+- #tools/digital 
 
 ## Intent
-- get a practical overview of your level
-- test your metrics, character controller, mechanics
-- How does it look like? Did you make the right use of space?
+
+- Gain a practical overview of your level.
+- Test your metrics, character controller, and mechanics.
+- Evaluate how your level utilizes space effectively.
 
 ## Problem
 
-- You have a concept of your level and want to test it
-- The mechanics are already defined as well as your gameplan and the layout of your level
+- You have a conceptualized level and want to test it.
+- Mechanics, game plans, and the level layout are already defined.
 
 ## Solution Approach
 
-- Use a gym scene to test what you planned and designed
-- Test if everything works as you planned it and if it fits your imagination
-- 
+- Utilize a gym scene to test your planned and designed elements.
+- Verify if everything functions as planned and aligns with your vision.
 
 ## Application
 
 ### Input
-- A map (not necessarily?)
-- assets
-- Game beats and [[Nintendo Power Method]] (not necessarily a linear pacing graph because you want to test how a character moves and test the spatial relations)
+- A map (optional)
+- Decisions about the game mechanics about to be implemented and tested
+- Decisions on the interactable objects, not necessarily the finished assets
 
 ### Application
+
 - Build a level in your [[Game Engines]] of choice, doesn't have to look like your planned level but should include all important elements of your gameplay
-- roughly define the blocks and objects as obstacles, interactables or other important elements
-- Try to play the character and challenge the metrics and mechanics to find bugs as early as possible
+- Roughly define the blocks and objects as obstacles, interactables or other important elements. These can be [[Blockout]]s.
+- Try to play the character and challenge the metrics and mechanics to find bugs as early as possible.
 
 ### Output
-- A platform with objects that you can use for testing what you had in mind
-- Different variations of your mechanics, e.g. different platforms for different jumping techniques, moving platforms
+
+- A platform with objects that you can use for testing what you had in mind, a form of [[Prototype]].
+- Different variations of your mechanics, e.g. different platforms for different jumping techniques, moving platforms.
 
 ### When to use it
+
 - For testing your mechanics and ideas
 
 ### Relevant Roles using this model
-- #roles/designer 
-- #roles/engineers 
-- collaboration between these
+- #roles/designer [[Designer]] #used-by/designer 
+- #roles/engineers [[Engineer]] #used-by/engineers 
+- Collaboration between these
 
 ## Relevancy in the following processes
-- [[Game Development]] Panning, Production and Testing Phase (I think)
+
+- [[Game Development]] Panning, Production and Testing Phase
+- [[Gamespace Prototyping]] maybe in the blockout phase
 
 ## Applicability
-- it's not an actual level! So don't use it when you want to create your level from a map, rather use it to test the limits of your mechanics and get new ideas that stretch these mechanics
+
+- It's not an actual level, so avoid using it when you intend to create your level from a map. Instead, employ it to test the limits of your mechanics and discover new ideas that expand those mechanics.
 
 ### Pros and Cons
 
-Pros:
-- Very fast way to have something practical that you can test because you don't need assets and it doesn't have to look pretty
-- find bugs and limitations early
-- but also find other possibilities that you haven't thought of until now
+**Pros**:
 
-Cons:
-- Not an actual level, so it's limited to its functional analysis
-- Hard to test storyline with it and gameplay beats, use it more as an actual gym to explore and test
+- Provides a quick way to create a practical testing environment without requiring polished assets.
+- Identifies bugs and limitations early in development.
+- Encourages the discovery of unforeseen possibilities.
+
+**Cons**:
+
+- Not a complete level, limiting its assessment to functional analysis.
+- Challenging to evaluate storyline and gameplay beats; it's primarily suited for exploration and mechanics testing.
 
 ## Relation with other Methods
-- ???
+
+- The outputs from [[Massing]] are used to build the gym.
+- Can test mechanics related to [[Symbols and Visual Language]]
+- Tests out the [[Pillars, Goals and Features]] regarding their mechanics decisions.
 
 
 ## Examples
-- ![](https://i.imgur.com/eJzsG8H.png)
+- ![](gymscene.png)
   random blocks placed to test mechanic (Alex K. @TychoBolt, 2020)
 
 ## Relevant Tools
+
 - [[Game Engines]]
 
 ## Relevant Literature
 
-@TychoBolt (K., Alex). (2020). Level Design: In Pursuit of Better Levels
-https://docs.google.com/document/d/1fAlf2MwEFTwePwzbP3try1H0aYa9kpVBHPBkyIq-caY/edit
+[[TychoBolt (K., Alex) 2020 - In Pursuit of Better Levels]]
 

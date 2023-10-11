@@ -1,5 +1,24 @@
 ---
 title: Pillars
+tags:
+  - method
+  - medium/text
+  - process/planning
+  - roles/designer
+  - roles/manager
+  - roles/writer
+  - used-by/designer
+  - used-by/artist
+  - used-by/engineers
+  - used-by/writer
+  - used-by/tester
+  - tools/digital
+  - tools/non-digital
+aliases:
+  - Design Pillars
+  - Design Goals
+  - Design Features
+  - Features
 ---
 
 
@@ -7,124 +26,163 @@ also known as: Design Pillars, Design Goals and Features
 
 ## Classification
 - #method 
-#medium 
-#process 
-#roles 
-#used-by 
-#tools 
-...
+#medium/text 
+#process/planning 
+#roles/designer #roles/manager #roles/writer 
+#used-by/designer #used-by/artist #used-by/engineers #used-by/writer #used-by/tester 
+#tools/digital #tools/non-digital 
 
 ## Intent
-- Design along fixed principles and variable decisions
-- Allow for the interplay between fixed decisions and decisions that can be changed
+
+- Develop a game or level with a balance of fixed principles and variable decisions.
+- Encourage an interplay between established principles and modifiable choices.
 
 ## Problem
 
-- How to design a game/level and which decisions should play a role
-- How to structure a game design document
+- How do you effectively design a game or level while determining which decisions to prioritize?
+- How do you structure a comprehensive game design document?
 
 ## Solution Approach
 
-- Your design decisions consist of four parts: 
-	- Pillars (fixed decisions)
-		- No decision during design and implementation of the game development process should be against the pillars.
-		- Can be seen as classical restrictions
-	- Goals (more abstract and not measurable)
-	- Features (changeable decisions)
-	- Context (things that need to be considered when making the specified decisions)
+- Organize your design decisions in four key categories:
+  
+    - Pillars (Fixed Decisions):
+        - Fundamental, unchanging principles that serve as the core of your game design.
+        - Should guide all design and implementation decisions.
+        - Often, they are considered classical constraints or restrictions.
+          
+    - Design Goals:
+        - Abstract objectives linked to each decision.
+        - Use various resources like images, references, and sound to convey your goals.
+        - Emphasize "showing is better than telling."
+          
+    - Features (Changeable Decisions):
+        - Align with design pillars and work toward achieving the design goals.
+        - Include specific details such as name, vision statement, technical description, interfaces, references, and risk assessment.
+          
+    - Context:
+        - Considerations and factors that must be taken into account when making specific design decisions.
 
 ## Application
 
 ### Input
-- All decisions written down somewhere
-- Ideally, an outline of your game design document
+
+- A record of all design decisions.
+- Ideally, an outline of your game design document.
 
 ### Application
 
-- Divide your decisions into the four specified parts:
-  
-	- Pillars: Your fixed decisions and basic design principles of your game. Iterate over them to get the big vision. Set them as fixed before production phase and don't change them!
-		- You can use prosa instead of a technical description so that everyone understands the principles
+- Divide your decisions into the four categories:
+	- Pillars: Fixed principles that define the fundamental aspects of your game. Ensure that these remain unchanged throughout production.
+	        - Consider using prose to explain these principles in a way that is accessible to all team members.
+          
+	- Design Goals: Abstract objectives tied to each decision. Use various media to illustrate your goals.
+	        - Remember that you're trying to convey abstract ideas.
+	        - Features should be described later with these goals in mind.
+	          
+	- Features: These should align with the design pillars and help achieve the design goals. Provide technical and descriptive details, including:
+	        - Name
+	        - Vision Statement ("As a player, I can... with..., to feel...")
+	        - Technical Description (definition and description of technical decisions)
+	        - Interfaces (connections to other features, systems, etc.)
+	        - References (Examples, Mockups, Moodboards, sources of inspiration)
+	        - Risks (identify potential issues and propose alternatives if applicable).
+	          
+	- Context: Collect other things you need to consider. They will define the context of your decisions regarding specific artifacts or more general decisions.
+		- For example, point out the uniqueness of your level and justify why it has to be in the game.
 		  
-	- Design Goals: The goals you want to achieve with every decision. Show what you mean with every resource possible, e.g. with pictures, references, sound ("showing is better than telling" - Anferson, 2016)'
-		- You don't need to use only text and keep in mind that you're trying to grasp an abstract idea. Features are then described later with the goals in mind.
-		  
-	- Features: In line with design pillars and implement the goals. Be as technical and as descriptive as possible. Consists of:
-		- Name
-		- Vision Statement ("As a player, I can ... with ..., in order to feel ...")
-		- Technical Description (define and describe technical decisions)
-		- Interfaces (describe the connections to other features, systems etc.)
-		- References (Examples, Mockups, Moodboards, where you draw inspiration from)
-		- Risks (+ alternatives if you have any)
+- You can enhance the definition of your overall level with this approach or specific aspects of the game.
+          
 
 ### Output
-- An outline of the decisions made, organized, sorted and described in detail
-- A better organisation for the game design document
 
-### When to use it
-- In the Game Developing process ideally before production phase
-- Any time to refactor your game design document, but the decisions should've been made already ideally
+- An outline of the decisions, well-organized, categorized, and described in detail, typically in a [[Document]] or [[Text]]ual form.
+- Enhanced organization for the [[Game Design Document]].
 
-### Relevant Roles using this model
-- #roles/designer [[Designer]] #used-by/designer 
-- [[Artist]] #used-by/artist 
-- [[Engineer]] #used-by/engineers 
-- [[Writer]] #used-by/writer 
-- [[Tester]] #used-by/tester 
+### When to Use It
 
-## Relevancy in the following processes
-- [[Game Development]]
-- [[Combat Design]] when the decisions influence the combat system
+- Ideally, in the game development process before the production phase.
+- Whenever there's a need to refine your game design document, although decisions should ideally have been made beforehand.
+
+### Relevant Roles Using This Model
+
+- #roles/designer [[Designer]] #used-by/designer
+- [[Roles/Artist]] #used-by/artist
+- [[Engineer]] #used-by/engineers
+- [[Writer]] #used-by/writer
+- [[Tester]] #used-by/tester
+
+## Relevancy in the Following Processes
+
+- [[Game Development]] in the planning, designing and testing phase
+- [[Combat Design]] when decisions impact the combat system.
+- [[Gamespace Prototyping]] considers the decisions made
 
 ## Applicability
-- Good with specifically defining your goals and fixes decisions
-- Usable in the early design and decision stages
-- Only helps in decision making, collecting resources and testing (refering back to what you decided to do)
-- Doesn't implement your game directly
-- Can limit your thinking process
+
+- Effective for defining goals and fixed principles.
+- Best suited for early design and decision-making stages.
+- Facilitates decision-making, resource collection, and testing but does not directly implement the game.
+- May impose theoretical constraints on the design process and can limit your creativity.
 
 ### Pros and Cons
 
-Pros:
-- Gives you clear goals and definitions (also on a technical level)
-- Can always be referred back to
-- Fixes decisions, sorts and ranks them
-- Can also be used without a game design document (Diablo 3 developers didn't have a gdd but still defined seven design pillars)
+**Pros**:
 
-Cons:
-- Design Goals are very abstract and can be hard to define
-- Might limit creative freedom and make the design process too theoretical
+- Provides clear goals and definitions, including technical aspects.
+- Offers a reference point throughout development.
+- Identifies and categorizes fixed decisions.
+- Useful even without a formal game design document (e.g., Diablo 3's seven design pillars).
 
-## Relation with other Methods
-- Can define the structure of the [[Game Design Document]] which is about decision making
-- [[Reference Collection]], [[Mood Boards]] as possible references for features
+**Cons**:
+
+- Design Goals can be highly abstract and challenging to define.
+- May restrict creative freedom, leading to a more theoretical design process.
+
+## Relation with Other Methods
+
+- Defines the structure of the [[Game Design Document]], which is essential for decision-making.
+- May involve elements of [[Reference Collection]] and [[Mood Boards]] as references for features.
 
 ## Examples
 
-- Diablo 3 Design Pillars (https://www.purediablo.com/diablo-3s-seven-design-pillars):
-	- Approachable
-	- Powerful Heroes
-	- Highly customizable
-	- Great item game
-	- Endlessly replayable
-	- Strong setting
-	- Cooperative Multiplayer
-	  
-- The Last of Us Game Pillars (https://www.gamedeveloper.com/design/design-pillars-the-core-of-your-game):
-	- Crafting
-	- Story
-	- AI Partners
-	- Stealth
+- **Diablo 3 Design Pillars** (source: [Pure Diablo](https://www.purediablo.com/diablo-3s-seven-design-pillars)):
+    
+    - Approachable
+    - Powerful Heroes
+    - Highly customizable
+    - Great item game
+    - Endlessly replayable
+    - Strong setting
+    - Cooperative Multiplayer
+      
+      
+- **The Last of Us Game Pillars** (source: [Game Developer](https://www.gamedeveloper.com/design/design-pillars-the-core-of-your-game)):
+    
+    - Crafting
+    - Story
+    - AI Partners
+    - Stealth
+
+- **Axis-aligned Top-Down Camera** Design Decision
+  
+	- Pillars: Axis-aligned Top-Down Camera
+	- Goals: Sense of Verticality & Depth
+	- Features: Weather Effects, ...
+	- Context: For this view to take full effect, the game world must have buildings with various heights. ...
 
 ## Relevant Tools
+
 - [[Digital Collection Tools]]
+- [[Communication Tools]]
+- [[Non-digital Design Tools]]
 
 ## Relevant Literature
 
-Andersen, 2016; "Create Your First Game Design Document", 2020
+[[Andersen 2016 - How to Write a Game-changing Audio Design Document today]]
 
-https://orioldedios.github.io/Game-Design-Pillars/#:~:text=In%20essence%2C%20Game%20Design%20Pillars,that%20make%20a%20cohesive%20design.
+[[Game Design Pillars]]
 
-https://www.purediablo.com/diablo-3s-seven-design-pillars
+[[Diablo 3 - Seven Design Pillars]]
 
-https://www.gamedeveloper.com/design/design-pillars-the-core-of-your-game
+[[Design Pillars - The Core of your Game]]

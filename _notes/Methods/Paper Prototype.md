@@ -1,5 +1,15 @@
 ---
 title: Paper Prototype
+tags:
+  - method
+  - medium/physical
+  - process/designing
+  - roles/designer
+  - used-by/designer
+  - tools/non-digital
+  - roles/tester
+aliases:
+  - Non-Digital Prototype
 ---
 
 
@@ -15,97 +25,114 @@ also known as: Non-Digital Prototype
 ...
 
 ## Intent
-- Make the process of prototyping faster and more productive
-- Discover problems sooner
-- Save digital prototyping loops
+
+- Speed up the prototyping process, enhancing productivity.
+- Identify and address issues at an earlier production stage.
+- Save time in digital prototyping iterations.
 
 ## Problem
 
-- Prototyping is an important process to test out designs and ideas and find problems, but sometimes it's not fast enough
-- You would like to loop through the development process as efficient as possible but don't know how since digital prototyping sometimes takes a lot of resources
+- Prototyping is a crucial process for testing designs and ideas, but it can be slow.
+- Efficiently progressing through the development cycle can be challenging, particularly when digital prototyping consumes a big amount of important resources like time.
 
 ## Solution Approach
 
-- Design the game as a board game first
+- Begin your game design as a non-digital board game to test the gameplay before you invest time and money in digital prototyping.
 
 ## Application
 
 ### Input
-- Ideas and designs of the game that can already be tested and put on paper
-- A scoring system that can be transfered to board games
+
+- Game ideas and designs that can be tested and documented on paper.
+- A scoring system that can be adapted to a board game format.
 
 ### Application
-- Make a board game out of your game
-- Create player figures and other objects for important assets
-- Decide on how to transfer the mechanics to the rules of a board game
-	- Digital turn-based combat can be turned into a non-digital turn-based combat against players or the game itself
-	- For random generator, put objects/numbers in a bag and let a person draw one. Or use dices
-	- Draw your map on paper and let the player figures move on the map
-	- Use a clock to measure time and use counters if your level is time-based
-- Test the built level with different players and look for flaws especially in the rule set and mechanics
-	- Are the mechanics balanced?
-	- Is it fun to play?
-	- Is the map big enough and interesting?
-- Apply these findings to the digital development of your game
+
+- Transform your game into a board game.
+- Create player tokens and other assets essential to the game.
+- Determine how to translate game mechanics into board game rules.
+    - Convert digital turn-based combat into non-digital turn-based combat involving players or the game itself.
+    - For randomization, place objects/numbers in a bag for players to draw, or use dice.
+    - Sketch your game map on paper and allow player tokens to move across it.
+    - Use a clock for time measurement and counters for tracking in time-based levels.
+- Test the board game prototype with various players, focusing on identifying flaws in the rule set and mechanics.
+    - Evaluate the balance of game mechanics.
+    - Assess the enjoyment factor.
+    - Analyze the map's size and level of engagement.
+- Apply the lessons learned from the paper prototype to the digital development of your game.
 
 ### Output
-- Analysis of the paper prototype (which is a board game) that can be applied to the digital prototype
 
-### When to use it
-- When you want to save time
-- When you want to include multiple players early without having established a multiplayer on a technical basis
-- Part of the [[Prototyping]] process
+- Analysis of the paper [[Prototype]] (a board game) that can be incorporated into the digital prototype. Should be documented in a [[Document]].
+- May include [[Drawing]]s and [[Sketch]]es.
 
-### Relevant Roles using this model
-- #roles/designer [[Designer]] #used-by/designer 
-- #roles/tester  [[Roles/Tester]]  
+### When to Use It
 
-## Relevancy in the following processes
-- [[Prototyping]]
-- [[Game Development]] production phase
+- When time savings are a priority.
+- When involving multiple players early in development without establishing technical multiplayer functionality.
+- As part of the [[Gamespace Prototyping]] process.
+
+### Relevant Roles Using This Model
+
+- #roles/designer [[Designer]] #used-by/designer
+- #roles/tester [[Roles/Tester]]
+
+## Relevancy in the Following Processes
+
+- [[Gamespace Prototyping]]
+- [[Game Development]] in the production phase.
 
 ## Applicability
 
-- Can only be used when you already have an existing ruleset and a vision on how the game is supposed to look like
-- Applicable in the early stages of production and prototyping
+- Suitable when an existing ruleset and a clear game vision are already in place.
+- Most effective in the early stages of production and prototyping.
 
 ### Pros and Cons
 
-Pros:
-- Problems are discovered earlier
-- Find design problems efficiently
-- Saves time
+**Pros**:
 
-Con:
-- Doesn't contribute to the technical and artistical development
-- Needs resources and players
-- It can be difficult to transfer the digital rules on paper and scores can be difficult to track
+- Early identification of problems.
+- Efficient problem-solving in design.
+- Time-saving benefits.
 
-## Relation with other Methods
-- [[Drawing a Map]] because you might need a map of your level on paper
-- [[Lenses]]: part of #16 The Lens of Risk Mitigation
+**Cons**:
+
+- Limited impact on technical and artistic development.
+- Requires resources and player involvement to test the prototype accordingly.
+- Translating digital rules to paper can be challenging, and score tracking may pose difficulties.
+
+## Relation with Other Methods
+
+- [[Drawing a Map]] because a map of your level may be required.
+- [[Lenses]]: Part of #16 The Lens of Risk Mitigation.
+- [[Game Design Document]] to document the results and findings of your prototype.
 
 ## Examples
 
-- Tetris as a Paper Prototype
-	- Cut out little geometric pieces in the shape of Tetris stones and throw them in a bag
-	- Draw the level as the board
-	- Let someone else draw the shapes and slide them down the board
-	- Try to apply the rotation and shifting rules to the board while continuously sliding the shapes down
-	- To delete a line, either imagine it in your head or pause the game and cut the pieces
-	- Track your scores by writing it down
-	  
-- Halo as a Paper Prototype
-	- Create the game characters and let one player play these characters
-	- Let another player play the enemies
-	- Draw a map and put the characters on the map
-	- Either make turn-based rules how to move and shoot
-		- A metronome simulator that ticks in regular intervals equals one shot, so the players are allowed to shoot once per metronome tick when the enemy is in sight
-		- With this system, everything will feel like slow motion which gives time to think about what is working and what needs more work
+- **Tetris as a Paper Prototype**
+    
+    - Create geometric pieces resembling Tetris shapes and place them in a bag.
+    - Draw the game board on paper.
+    - Have someone draw shapes and slide them down the board.
+    - Apply the rotation and shifting rules while sliding the shapes.
+    - To clear lines, either mentally visualize or pause the game to remove pieces.
+    - Track scores by recording them.
+      
+      
+- **Halo as a Paper Prototype**
+    
+    - Create game characters and assign one player to control them.
+    - Designate another player as the enemy.
+    - Draw a map and position the characters on it.
+    - Establish turn-based rules for movement and combat.
+        - Simulate shots using a metronome, allowing one shot per metronome tick when an enemy is in sight.
+        - This system introduces a slow-motion effect, enabling analysis of gameplay elements.
 
 ## Relevant Tools
+
 - [[Non-digital Design Tools]] like Pen and Paper and Crafting Tools
+- [[Digital Collection Tools]] to store pictures of your non-digital prototype.
 
 ## Relevant Literature
 
-Schell: Book of lenses
+[[Schell 2014 - A Book of Lenses]]

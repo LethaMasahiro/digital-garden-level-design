@@ -1,5 +1,21 @@
 ---
 title: Reference Collection
+tags:
+  - method
+  - medium/visual
+  - medium/text
+  - medium/collection
+  - roles/designer
+  - roles/artists
+  - used-by/designer
+  - used-by/artist
+  - used-by/engineers
+  - tools/digital
+  - tools/non-digital
+  - process/designing
+  - process/planning
+aliases:
+  - Reference Board
 ---
 
 also known as: Reference Board
@@ -18,111 +34,121 @@ also known as: Reference Board
 #tools/non-digital 
 
 ## Intent
-- capture something that serves as a reference to your own work
-- gain inspiration
-- also for coordination and communicating your idea just like mood boardstake key characteristics from real-life examples/ game references/ etc. and create your own perfect mixture
-- 
+
+- To capture a reference for your own work.
+- To gain inspiration.
+- To facilitate coordination and communicate your ideas, similar to mood boards.
+- To extract key characteristics from real-life examples, game references, etc., and create your own perfect mixture.
 
 ## Problem
 
-### General
-
-### Specific
-- just like mood boards
-- start somewhere
-- You see something that gives you inspiration, just like a specific game scene or concept art that gives you ideas (e.g. the Western setting in "Westworld" (Amazon Prime) can inspire you for a futuristic robotic setting in Texas)
-- You read an inspiring line in a book that makes you think about human ethics and human rights in terms of AI (I don't have a reference for this lol)
-- You want to share it with your team and save it for future use
+- Similar to mood boards, you need a starting point.
+- Sometimes, you come across something inspiring, like a specific game scene or concept art that sparks ideas (e.g., the Western setting in "Westworld"(2016) on Amazon Prime inspiring a futuristic robotic setting in Texas).
+- You read an inspiring line in a book that prompts you to contemplate human ethics and AI's impact on human rights (even without a specific reference).
+- You want to share these inspirations with your team and save them for future use.
 
 ## Solution Approach
 
-### General
-
-### Specific
-- start a collection with all your inspiration from other media
-- doesn't have to be visual or audible, can also be text, feelings, experience written down, anything that gives you inspiration for your level
-- should be able to convey your idea so it has to be feasible in some way
+- Start a collection with all your inspiration from various media.
+- The inspiration doesn't have to be limited to visuals or sounds; it can also include text, feelings, experiences written down, or anything that inspires your level.
+- The inspiration should be able to convey your idea feasibly in some way.
 
 ## Application
 
 ### Input
-- any reference you found
-- can be: paintings, sketches, sounds, music, text, books, papers, textures, movie scenes, diaries, quotes, pictures of reallife nature, literature on history, ...
+
+- Any reference you have found.
+- This can include paintings, sketches, sounds, music, text, books, papers, textures, movie scenes, diaries, quotes, pictures of real-life nature, literature on history, and more.
 
 ### Application
-- collect all the references in one place
-- can be a collection of different assets
-- you can also create a board with it just like mood boards or you can leave it as separate assets, e.g. in a folder structure
-- Can aso be technical references (e.g. free-to-use code) (can it though?)
-- Can also be mockups
+
+- Collect all the references in one place.
+- You can create a collection of different assets.
+- You can organize it similar to mood boards or keep them as separate assets in a folder structure.
+- It can also include technical references (e.g., free-to-use code), although this may be a rare case.
+- Mockups can also be part of this collection.
 
 ### Output
-- said [[Collection]]
-- can be shared
 
-### When to use it
-- when you don't know where to start
-- whenever you find something that ispires you
-- can be used in [[Game Development]] planning, designing, also developing and testing phase and in all the iterations to add details to your level and flesh it out
-- Can be documented in a [[Game Design Document]]
+- The enhanced [[Collection]] of references.
+- It can be shared with others.
 
-### Relevant Roles using this model
-- #roles/designer #roles/artists #roles/engineers 
-- #used-by/artist #used-by/designer #used-by/engineers #used-by/manager (to pitch the idea to investors/ outside of the team)
+### When to Use It
 
-## Relevancy in the following processes
-- [[Game Development]] planning, designing (implementation and testing)
-- [[Prototyping]] what's your game about
+- When you don't know where to start.
+- Whenever you encounter something that inspires you.
+- Can be used in various phases of [[Game Development]], including planning, designing, development, and testing, as well as during iterations to add details to your level.
+- Can be documented in a [[Game Design Document]].
+
+### Relevant Roles Using This Model
+
+- #roles/designer [[Designer]] #used-by/designer 
+- #roles/artists [[Artist]] #used-by/artist 
+- [[Engineer]] #used-by/engineers 
+- [[Manager]] #used-by/manager (for pitching the idea to investors or external stakeholders)
+
+## Relevance in the Following Processes
+
+- [[Game Development]] planning, designing (implementation and testing).
+- [[Gamespace Prototyping]] to define what your game is about.
+- [[Iterative Map Design]] to find inspiration for your map.
+- [[Combat Design]] to get inspired by other game's combat enemies, allies and mechanics.
 
 ## Applicability
-- just like [[Mood Boards]]: As a communication and coordination tool, but focusing on creativity, inspiration and freedom
-- it's just a reference so don't copy it 1:1
-- in contrast to mood boards, it's not limited to visual and audible cues but can be anything, more creative freedom, less "finished" and polished, can also be more abstract
+
+- Similar to [[Mood Boards]]: serves as a communication and coordination tool, but with a focus on creativity, inspiration, and freedom.
+- It's just a reference, so it should not be copied 1:1.
+- In contrast to mood boards, it's not limited to visual and audible cues; it can encompass anything, offering more creative freedom and abstraction.
 
 ### Pros and Cons
 
-Pros:
-- It's always good to store references and come back to it so you don't lose yourself in the process of creating, but rather come back to it in the game development process
-- Inspiration can strengthen your creativity
-- Widen your horizon
-- the more references you have, the closer it is to reality (or your vision in general)
-- communication and coordination tool
-- not limited on visible and audible cues
+**Pros**:
 
-Cons:
-- More abstract than mood boards
-- Not everyone understands why you chose a certain reference, can seem random to add it to the collection and can be confusing
-- Nowhere near a finished product, but should serve as inspiration instead
+- Storing references allows you to revisit them, preventing you from losing track during the game development process.
+- Inspiration can enhance creativity.
+- Broadens your perspective.
+- The more references you have, the closer you get to realizing your vision.
+- Serves as a communication and coordination tool.
+- Not limited to visible and audible cues.
+
+**Cons**:
+
+- More abstract than mood boards.
+- Not everyone may understand why you chose a specific reference, which can make adding it to the collection seem random and confusing.
+- It's far from a finished product; it should serve as inspiration instead.
 
 ## Relation with other Methods
 - [[Mood Boards]]
 
 ## Examples
-- ![](https://i.imgur.com/hJwpGjh.png)
-  Reference Avatar Collection on Artstation (buyable) (https://www.artstation.com/marketplace/p/5NBz1/game-avatars-collection-vol-37-4k-reference-images)
+- Reference Avatar Collection on Artstation (buyable)
+  ![](referencecollectionavatar.png)
+  _(Source: [link](https://www.artstation.com/marketplace/p/5NBz1/game-avatars-collection-vol-37-4k-reference-images))_
 
-- ![](https://i.imgur.com/XJbOwL4.png)
-  Reference book on ancient greek history (https://www.amazon.de/-/en/Billy-Wellman/dp/B0BRDHS9WN)
-  
-- ![](https://i.imgur.com/PMcDLJ9.png) 
-  ![](https://i.imgur.com/guFDeqM.png)
-  Big Ostrich feathers as reference for pompous headwear in Bridgerton (https://www.amazon.com/Natural-Ostrich-Feathers-Centerpieces-Decoration/dp/B08B3W24HY) (https://www.vogue.fr/fashion-culture/article/bridgertons-costume-designer-intreview-netflix)
+- Reference book on ancient Greek history
+  ![](referencecollectionbook.png)
+   _(Source: [link](https://www.amazon.de/-/en/Billy-Wellman/dp/B0BRDHS9WN))_
+
+- Big Ostrich feathers as reference for pompous headwear in "Bridgerton" (2020)
+
+ ![](referencecollectionostrichfeathers.png) 
+  ![](referencecollectionbridgerton.png)
+  _(Sources: [link 1](https://www.amazon.com/Natural-Ostrich-Feathers-Centerpieces-Decoration/dp/B08B3W24HY), [link 2](https://www.vogue.fr/fashion-culture/article/bridgertons-costume-designer-intreview-netflix))_
 
 ## Relevant Tools
-- [[Digital Collection Tools]] (Pinterest), Artstation, Social Media, Pureref (https://www.pureref.com/)
+
+- [[Digital Collection Tools]] (Pinterest), Artstation, Social Media, Pureref ([link](https://www.pureref.com/))
 - Screenshot Tool
-- Adobe Capture for colors and shapes
+- [[Digital Art Tools]], and Adobe Capture for colors and shapes
 - Research (Books, Google Images, )
-- 
+- [[Communication Tools]]
 
 ## Relevant Literature
-(where did you get this from, Daniel? lol)
 
-https://www.artstation.com/marketplace/p/5NBz1/game-avatars-collection-vol-37-4k-reference-images
+[[Artstation]]
 
-https://www.amazon.de/-/en/Billy-Wellman/dp/B0BRDHS9WN
+[[Amazon]]
 
-https://www.amazon.com/Natural-Ostrich-Feathers-Centerpieces-Decoration/dp/B08B3W24HY 
-https://www.vogue.fr/fashion-culture/article/bridgertons-costume-designer-intreview-netflix
+[[Bridgerton Reference]]
 
-https://www.pureref.com/
+[[Pureref]]

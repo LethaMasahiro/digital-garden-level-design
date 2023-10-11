@@ -1,7 +1,18 @@
 ---
 title: Axonometric
+tags:
+  - medium/visual
+  - method
+  - roles/designer
+  - roles/artists
+  - used-by/designer
+  - used-by/artist
+  - tools/digital
+  - tools/non-digital
+aliases:
+  - Architectural drawing
 ---
-
+TO DO: Gameplay Axonometric, what 
 
 also known as: Architectural drawing
 
@@ -13,110 +24,117 @@ also known as: Architectural drawing
 - #tools/digital #tools/non-digital 
 
 ## Intent
+
 - "Communicate the composition of space" (Totten, p.54)
-- Represent the threedimensionality of an object
+- Represent the three-dimensionality of an object
 
 ## Problem
 
 ### General
-- You have the drawing of an object but its dimensions don't become clear in relation to the space surrounding it. There is no three dimensionality and therefore it's hard to imagine what the object looks like when modeled.
+
+- You possess a drawing of an object, but its dimensions remain unclear in relation to the surrounding space. There is a **lack of three-dimensionality**, making it difficult to visualize the object when modeled.
 
 ### Specific
-- e.g. you want to add a church in your level that can be entered, but just having the outer front view without showing what the inside looks like in a 45 degree view lacks depth
-- You would rather have another drawing from another perspective (maybe also from the camera perspective) that communicates the purpose of the building and shows its building blocks 
+
+- For instance, you want to include a church in your level that players can enter. However, presenting only the outer front view, without revealing the interior in a 45-degree perspective, lacks depth.
+- You prefer a drawing from an alternative viewpoint (possibly from the camera's perspective) to convey the building's purpose and display its architectural details.
 
 ## Solution Approach
 
-- Use an axonometric to help visualize the 3D space of the object and its surroundings
+## Solution Approach
+
+- Use an **axonometric projection** to visualize the **3D space** of the object and its environment.
 
 ## Application
 
 ### Input
-- Any types of drawings like plans, sections, simple sketches, more detailed sketches, architectural drawings
-- Inspiration from the real-world
-- Knowledge about 3D space and how to correctly visualize it on paper or in a digital tool of your choice
+
+- Various types of [[Drawing]]s such as **plans, sections, simple [[Sketch]]es, more detailed sketches, and architectural drawings**
+- Inspiration drawn from the **real world**
+- Proficiency in understanding **3D space** and correctly representing it on paper or through a digital tool of your choice
 
 ### Application
 
-- Define at which angle you want to draw your object from (e.g. you can view the church from a bird perspective), typically a 45 degree angle is chosen to depict threedimensionality
-- Draw your object from this perspective as accurately as possible
-	- Once from the outer view if you would like
-	- And once, the more important part, with a cut right through the object so that you see inside the object
+- Determine the **desired angle** from which you want to depict your object (e.g., a bird's-eye perspective). Typically, a **45-degree angle** is chosen to convey three-dimensionality.
+- Accurately draw your object from this perspective:
+    - First, from the **exterior view** if necessary.
+    - Second, and more importantly, with a **cross-section** through the object, revealing its interior.
 - A more mathematical approach:
-	- Take your object and draw a coordinate system inside your drawing
-	- Project the outer corners of your object on the coordinate system and shift these points along the three-dimensional axis
-	- connect the points with lines to the original object. Tada, you just made an accurate three dimensional axonometric of your object!
+    - Take your object and draw a **coordinate system** within your drawing.
+    - Project the outer corners of your object onto the coordinate system and **shift these points** along the three-dimensional axis.
+    - Connect the points with lines to the original object, resulting in an accurate three-dimensional axonometric representation of your object.
 	  
 	  ![](https://i.imgur.com/hm41KT9.png)
-	  (Geometrical axonometric, Wikipedia https://de.wikipedia.org/wiki/Axonometrie#/media/Datei:Haus-karo-axonometrie.svg @Ag2gaeh)
+	  _(Geometrical Axonometric, Source: Wikipedia, [link](https://de.wikipedia.org/wiki/Axonometrie#/media/Datei:Haus-karo-axonometrie.svg) - @Ag2gaeh)_
 
 ### Output
-- An axonometric of your object, [[Diagram]]
 
-### When to use it
-- If you want to visualize the three-dimensional space within your object
-- If you want to communicate a detailed idea of your object to your team and make them understand better what you imagined
+- An **axonometric representation** of your object, which can be a **diagram**, **drawing**, or **sketch**.
+
+### When to Use It
+
+- When you want to **visualize the three-dimensional space** within your object.
+- When you aim to **clearly communicate a detailed concept** of your object to your team, enhancing their understanding of your vision.
 
 ### Relevant Roles using this model
-- #roles/artists [[Artist]] #used-by/artist 
+- #roles/artists [[Roles/Artist]] #used-by/artist 
 - #roles/designer [[Designer]] #used-by/designer 
 
 ## Relevancy in the following processes
 - [[Game Development]]
-- [[Prototyping]]
+- [[Gamespace Prototyping]]
 ## Applicability
-- Just like any drawing, it is good for conceptualization and the early stages of developing a game before you model your objects
-- Also a good method to communicate with your team
-- Apply it when you plan a 3D game and need to plan the spatial arrangements of your level
+
+- - Like any drawing method, it is **beneficial for conceptualization** during the early stages of game development, especially before you begin modeling your objects.
+- It serves as a useful tool for **team communication**.
+- Apply this method when planning a **3D game** and need to arrange the spatial elements within your level effectively.
 
 ### Pros and Cons
 
-Pros:
-- It helps the team to understand what you imagined
-- It's a good reference for artists to model the objects ans location as close to the concept as possible
-- It can be done on paper and digital
+**Pros:**
+- It facilitates the team's understanding of your vision.
+- It provides a valuable reference for artists, allowing them to model objects and locations as closely to the concept as possible.
+- It can be implemented **both on paper and digitally**.
+- Offers a more **technical understanding** of the level and assets.
 
-Cons:
-- it requires a little bit of artistic and mathematical knowledge
-- It also requires an exact style of work if you want to get the metrics right
-- It's just a concept design and still has to be built
+**Cons:**
+- Requires some level of artistic and mathematical knowledge.
+- Demands a **precise working style** for accurate metrics.
+- It's primarily a **conceptual design** and still requires further development.
 
 ## Relation with other Methods
 - [[Drawing a Map]] because it shows part of the map in more detail
-- [[Paper Prototype]] ?
-- Can include [[Symbols and Visual Language]]
+- Can include [[Symbols and Visual Language]] to enhance the sketch's communicative power
 
 ## Examples
 - A sectional axonometric
 
   ![](https://i.imgur.com/U78pHNe.png)
-  (Totten, p.58)
+  _(Source: [[Totten 2019 - An Architectural Approach of Level Design]], p.58)
   
 - An axonometric drawing of a level with descriptions
-
 ![](https://i.imgur.com/bJe82gX.png)
-(Totten, p. 59)
+ _(Source: [[Totten 2019 - An Architectural Approach of Level Design]], p.59)
 
 - The "computational anaglyphic method" that develops an axonometric 3D view based on the 2 images it was given as an input
   ![](https://i.imgur.com/puVHexm.png)
-  (https://files.eric.ed.gov/fulltext/ED557273.pdf p. 220)
+  _(Source: [link](Stereo_Orthogonal_Axonometric_Perspective.pdf) p. 220)_
 
 - Game perspectives can also be shaped by axonometric/isometric views. Here's an example of that specific camera view:
-  
   ![](https://i.imgur.com/4RoW9eg.png)
-  Age of Empires, 1997-2023
+  _(Source: Age of Empires, 1997-2023)_
 
 ## Relevant Tools
-- [[Digital Design Tools]] like Photoshop, Procreate or any digital drawing tool
+- [[Digital Art Tools]] like Photoshop, Procreate or any digital drawing tool
 - [[Non-digital Design Tools]], pen and paper
-- [[Computational Tools]] like proposed in this paper https://files.eric.ed.gov/fulltext/ED557273.pdf 
+- [[Computational Tools]] like proposed in [this](Stereo_Orthogonal_Axonometric_Perspective.pdf) paper
 
 ## Relevant Literature
 
-Totten [[Totten 2019 - An Architectural]]
+[[Totten 2019 - An Architectural Approach of Level Design]]
 
-Wikipedia about the definition of an Axonometric Projection https://en.wikipedia.org/wiki/Axonometric_projection https://de.wikipedia.org/wiki/Axonometrie#/media/Datei:Haus-karo-axonometrie.svg
+Wikipedia about the definition of an Axonometric Projection: [[Axonometric Wikipedia Links]]
 
-https://files.eric.ed.gov/fulltext/ED557273.pdf 
+[[Stereo Orthogonal Axonometric Perspective for the Teaching of Descriptive Geometry]]
 
-https://pikuma.com/blog/isometric-projection-in-games
+[[Isometric Projection in Game Development]]
