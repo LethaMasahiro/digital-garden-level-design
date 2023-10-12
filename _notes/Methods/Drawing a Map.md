@@ -153,10 +153,10 @@ also known as:
 
 ## Relevant Literature
 
-[[Library/Totten/Totten 2019 - An Architectural Approach of Level Design]]
+[[library/totten/An_architectural_approach_to_Level_Design.pdf]]
 
 [[Schell 2014 - A Book of Lenses]], chapter 21
 
-[[Languages_of_Games_and_Play-A_Systematic_Mapping_Study.pdf]]
+[[library/Languages_of_Games_and_Play-A_Systematic_Mapping_Study.pdf]]
 
 [[Evolutionary Dungeon Designer]] (2D level maps and patterns)
