@@ -61,12 +61,12 @@ also known as:
 #### Graph Theory:
 
 - **Domination Theory**: Nodes have areas of effect and can overlap with other nodes ("zones of play"). Ensure that overlapping makes sense (e.g., adding walls to prevent interference between overlapping zones).
-   ![Areas of play in Halflife](areas-of-play-halflife.png)
+   ![assets/Areas of play in Halflife](assets/areas-of-play-halflife.png)
     _(Source: [link](https://www.gamedeveloper.com/design/the-metrics-of-space-molecule-design))_
     
     - **Spanning Trees**: Connect nodes with multiple lines to create optimal routes (helps define item placements, spawns, and player behavior).
       
-    - **Steiner Points**: Identify key connection points (e.g., hubs) where players often traverse shorter paths (useful for pickups, shortcuts, teleports). ![Krom's Canyon Steiner Points Z and X](steiner-points-chrom.png) 
+    - **Steiner Points**: Identify key connection points (e.g., hubs) where players often traverse shorter paths (useful for pickups, shortcuts, teleports). ![Krom's Canyon Steiner Points Z and X](assets/steiner-points-chrom.png) 
       _(Source: [link](https://www.gamedeveloper.com/design/the-metrics-of-space-molecule-design))_
 
 #### Hard and soft gates:
@@ -88,7 +88,7 @@ also known as:
 - Connect nodes with lines, allowing for abstract connections.
 - Multiple lines can lead to one node, and vice versa, creating variety (hypergraph).
 - Transform this graph into a more diverse sketch, considering overlapping spaces for vertical diversity. Think about player movement directions, one-way paths, and repeated traversal. 
-  ![Interpretation of a molecule diagram](molecule-diagram.png) 
+  ![Interpretation of a molecule diagram](assets/molecule-diagram.png) 
   _(Source: [link](https://www.gamedeveloper.com/design/the-metrics-of-space-molecule-design))_
   
     - Avoid linearity, as it can become monotonous.
@@ -106,7 +106,7 @@ Other examples of how to draw and explain the diagram can be found in Totten's w
 - Hub spaces define the central spatial points where the player can access different levels from.
 - They are considered safe spaces for the player to not feel tense.
 - A typical structure of a hub-based game:
-  ![](hubspacesstructure.png)
+  ![](assets/hubspacesstructure.png)
   _(Source: [[Totten 2019 - An Architectural Approach of Level Design]], p.135)_
 
 ##### Sandbox Gamespaces
@@ -169,7 +169,7 @@ Other examples of how to draw and explain the diagram can be found in Totten's w
 ## Examples
 
 - Molecule Diagram halo4
-  ![](molecule-diagram-halo4.png)
+  ![](assets/molecule-diagram-halo4.png)
   _(Source: [[Totten 2019 - An Architectural Approach of Level Design]])_
 
 ## Relevant Tools
