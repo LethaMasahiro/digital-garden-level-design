@@ -57,13 +57,13 @@ also known as:
 	- Identify and number important gameplay beats and points crucial to the story and level progression.
 	- Draw a line between the start and end points, passing through all marked gameplay beats in the correct order, following the level's flow.
   
-	  ![](criticalpath.png)
+	  ![](assets/criticalpath.png)
 	  _(An example of a critical path in the Level Design Book. Source: [link](https://book.leveldesignbook.com/process/layout/criticalpath))
 	
 	- Consider marking areas untouched by the critical path to assess their importance to the level.
 	- Experiment with the level's design, including the option to remove areas not essential to the critical path to observe the impact.
 	  
-	  ![](criticalpathunnecessary.png)
+	  ![](assets/criticalpathunnecessary.png)
 	  _(How the example level would look when deleting all "unnessessary" areas. Source: [link](https://book.leveldesignbook.com/process/layout/criticalpath))
   
 
@@ -115,7 +115,7 @@ also known as:
 
 - Deathloop critical path:
   
-  ![](criticalpathdeathloop.png)
+  ![](assets/criticalpathdeathloop.png)
   _(Source: [[Level Design Book]])_
 
 ## Relevant Tools

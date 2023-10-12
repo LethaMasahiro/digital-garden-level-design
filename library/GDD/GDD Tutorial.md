@@ -1,0 +1,2 @@
+
+[https://dev.to/garrett/a-game-design-document-gdd-tutorial-that-will-save-you-time-and-energy-238n](https://dev.to/garrett/a-game-design-document-gdd-tutorial-that-will-save-you-time-and-energy-238n)

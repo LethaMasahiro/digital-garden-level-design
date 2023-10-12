@@ -132,15 +132,15 @@ also known as:
 ## Examples
 
 - Interactive Map from the Game "Zelda: Breath of the Wild" (2017)
-  ![](mapzelda.jpeg)
+  ![](assets/mapzelda.jpeg)
   _(Source: [Zelda Dungeon](https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?z=2&x=-2580&y=-1088))_
 
 - Slender Map
-  ![](mapslender.png)
+  ![](assets/mapslender.png)
   _(Source: [[Totten 2019 - An Architectural Approach of Level Design]])_
 
 - Map sketch of Realm 1-B for "Spyro: A Hero's Tail"
-  ![](mapsketch.jpeg)
+  ![](assets/mapsketch.jpeg)
   _(Source: [link](https://terryplloyd.artstation.com/projects/OW0xJ))_
 
 

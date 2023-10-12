@@ -1,0 +1,2 @@
+
+[https://www.codecks.io/blog/2020/writing-modern-game-design-documents/#why-use-game-design-documents](https://www.codecks.io/blog/2020/writing-modern-game-design-documents/#why-use-game-design-documents)
