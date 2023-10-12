@@ -1,5 +1,6 @@
 ---
 title: Proximity Diagram
+tags:
 ---
 
 
