@@ -147,7 +147,7 @@ also known as:
 ## Relevant Tools
 
 - Evolutionary Dungeon Designer to create 2D level maps and patterns or [[Computational Tools]] to help in the generation of terrain/landscape
-- RogueGame Language as presented in [[Languages of Games and Play - A Systematic Mapping Study.pdf]]
+- RogueGame Language as presented in [[Languages_of_Games_and_Play-A_Systematic_Mapping_Study.pdf]]
 - [[Digital Art Tools]]
 - [[Non-digital Design Tools]]
 
@@ -157,6 +157,6 @@ also known as:
 
 [[Schell 2014 - A Book of Lenses]], chapter 21
 
-[[Languages of Games and Play - A Systematic Mapping Study.pdf]]
+[[Library/Languages_of_Games_and_Play-A_Systematic_Mapping_Study.pdf]]
 
 [[Evolutionary Dungeon Designer]] (2D level maps and patterns)
