@@ -157,6 +157,6 @@ also known as:
 
 [[Schell 2014 - A Book of Lenses]], chapter 21
 
-[[Library/Languages_of_Games_and_Play-A_Systematic_Mapping_Study.pdf]]
+[[Languages_of_Games_and_Play-A_Systematic_Mapping_Study.pdf]]
 
 [[Evolutionary Dungeon Designer]] (2D level maps and patterns)

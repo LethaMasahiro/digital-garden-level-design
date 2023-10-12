@@ -75,7 +75,7 @@ also known as: Non-Digital Prototype
 ### Relevant Roles Using This Model
 
 - #roles/designer [[Designer]] #used-by/designer
-- #roles/tester [[Roles/Tester]]
+- #roles/tester [[Tester]]
 
 ## Relevancy in the Following Processes
 
