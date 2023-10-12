@@ -10,7 +10,7 @@ An Asset is a digital resource or object used in game development to build the g
 A 2D slime asset available to download for free on https://craftpix.net/freebies/free-slime-sprite-sheets-pixel-art/ 
 
 
-![](https://i.imgur.com/UVHlIU1.png)
+![](assets/3dmodelspack.png)
 Free downloadable 3D sci-fi models pack on https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi/sci-fi-characters-pack-197162
 
 

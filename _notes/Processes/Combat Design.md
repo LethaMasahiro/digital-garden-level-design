@@ -12,7 +12,7 @@ also known as:
 ## Classification
 #process 
 
-## I## Intent
+## Intent
 
 - Offer the player the right amount of challenge.
 - Control enemy encounters.
@@ -82,11 +82,11 @@ also known as:
 - Relevant Tools: [[Game Engines]], [[Digital Collection Tools]], [[Communication Tools]].
 - Relevant Roles: #roles/engineers [[Engineer]], #roles/tester [[Tester]], #roles/designer [[Designer]].
 
-![](haloenemies.png) _Enemy types in Halo (2001)_
+![](assets/haloenemies.png) _Enemy types in Halo (2001)_
 
-![](wavedesign.png)Possible wave design as in [[TychoBolt (K., Alex) 2020 - In Pursuit of Better Levels]]
+![](assets/wavedesign.png)Possible wave design as in [[TychoBolt (K., Alex) 2020 - In Pursuit of Better Levels]]
 
-![](converheight.png) 
+![](assets/converheight.png) 
 Height of cover _(Source: [[TychoBolt (K., Alex) 2020 - In Pursuit of Better Levels]])_
 
 ## Applicability

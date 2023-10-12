@@ -122,13 +122,13 @@ also known as: Visual Design
 ## Examples
 
 - Mario Tutorial Level introduces symbols and visual cues that are repeated over the whole game
-  ![](MarioTutorialLevel.png)
+  ![](assets/MarioTutorialLevel.png)
   _(Source: [[Totten 2019 - An Architectural Approach of Level Design]], p. 174)_
-  ![](MarioTutorialLevelScreenshot.png)
+  ![](assets/MarioTutorialLevelScreenshot.png)
   _(Source: Super Mario Bros. 1985)_
 
 - The climbable walls in Tomb Raider are introduced early in the game and somewhat distinguish themselves from other rocks
-  ![](TombRaiderWalls.png)
+  ![](assets/TombRaiderWalls.png)
   _(Source: Tomb Raider, 2011)_
 
 ## Relevant Tools

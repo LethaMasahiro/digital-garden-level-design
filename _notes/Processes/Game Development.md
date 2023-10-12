@@ -62,7 +62,7 @@ also known as: Agile Game Development
 - Test all elements developed so far.
 - **Iterative Game Design**: Each iteration involves playtesting, evaluation, and revisions.
 - Agile game development iterates continuously, reducing bugs and changes (see iterative game design image). 
-  ![](PlaytestingPyramid.png)
+  ![](assets/PlaytestingPyramid.png)
    _(Source: [[Game Design Workshop.pdf]])_
 - Input: Game segments or the entire game for testing.
 - Application: Play and test the game comprehensively, focusing on different aspects such as mechanics, pacing, and the integration of artwork and animations. Consider inspiration from [Software Testing](https://kaner.com/pdfs/ETatQAI.pdf) for guidance. Release alpha versions for player feedback.

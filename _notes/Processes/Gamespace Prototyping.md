@@ -53,7 +53,7 @@ aliases:
 - Relevant Tools: [[Digital Diagram Tools]], [[Non-digital Design Tools]].
 - Relevant Methods: [[Molecule Diagram]], [[Proximity Diagram]], [[Pacing Diagram]], [[Reward Schedule]].
 
-![](molecule-diagram-tycho.png) 
+![](assets/molecule-diagram-tycho.png) 
 _(Source: [[TychoBolt (K., Alex) 2020 - In Pursuit of Better Levels]], p.9)_
 
 ### 3. Draw a Map
@@ -78,7 +78,7 @@ _(Source: [[TychoBolt (K., Alex) 2020 - In Pursuit of Better Levels]], p.9)_
 - Relevant Tools: [[Game Engines]].
 - Relevant Methods: [[Massing]] (early stages).
 
-![](massingtycho.png)
+![](assets/massingtycho.png)
 Roughly mapping out the level, similar to a [[Gym Scene]] _(Source: [[TychoBolt (K., Alex) 2020 - In Pursuit of Better Levels]])_
 
 ### 5. Iterate over the map

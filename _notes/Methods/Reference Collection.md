@@ -122,17 +122,17 @@ also known as: Reference Board
 
 ## Examples
 - Reference Avatar Collection on Artstation (buyable)
-  ![](referencecollectionavatar.png)
+  ![](assets/referencecollectionavatar.png)
   _(Source: [link](https://www.artstation.com/marketplace/p/5NBz1/game-avatars-collection-vol-37-4k-reference-images))_
 
 - Reference book on ancient Greek history
-  ![](referencecollectionbook.png)
+  ![](assets/referencecollectionbook.png)
    _(Source: [link](https://www.amazon.de/-/en/Billy-Wellman/dp/B0BRDHS9WN))_
 
 - Big Ostrich feathers as reference for pompous headwear in "Bridgerton" (2020)
 
- ![](referencecollectionostrichfeathers.png) 
-  ![](referencecollectionbridgerton.png)
+ ![](assets/referencecollectionostrichfeathers.png) 
+  ![](assets/referencecollectionbridgerton.png)
   _(Sources: [link 1](https://www.amazon.com/Natural-Ostrich-Feathers-Centerpieces-Decoration/dp/B08B3W24HY), [link 2](https://www.vogue.fr/fashion-culture/article/bridgertons-costume-designer-intreview-netflix))_
 
 ## Relevant Tools

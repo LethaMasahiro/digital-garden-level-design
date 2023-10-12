@@ -30,7 +30,7 @@ also known as:
 
 ## Process Steps
 
-![Software Engineering Workflow](softwareengineeringworkflow.png) _Software Engineering Workflow by Ralf Engelschall (2019-2021) (used under license to TUM for reproduction in Computer Science lecture contexts only)_
+![Software Engineering Workflow](assets/softwareengineeringworkflow.png) _Software Engineering Workflow by Ralf Engelschall (2019-2021) (used under license to TUM for reproduction in Computer Science lecture contexts only)_
 
 ### Business Section
 
