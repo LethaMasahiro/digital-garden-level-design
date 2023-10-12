@@ -153,6 +153,7 @@ also known as:
 
 ## Relevant Literature
 
+[Totten](library/totten/An_architectural_approach_to_Level_Design.pdf)
 [[library/totten/An_architectural_approach_to_Level_Design.pdf]]
 
 [[Schell 2014 - A Book of Lenses]], chapter 21

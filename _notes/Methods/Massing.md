@@ -75,7 +75,7 @@ also known as:
     - Also consider the overall climate within that landscape; does it change?
     - Where do you place trees? Can they serve as walls?
     
-    ![](Alba_Blockout.jpeg) _(Alba Blockout phase of a landscape, Source: [link](https://medium.com/@ustwogames/the-environment-art-of-alba-a-wildlife-adventure-6bddd8b56955))
+    ![](assets/Alba_Blockout.jpeg) _(Alba Blockout phase of a landscape, Source: [link](https://medium.com/@ustwogames/the-environment-art-of-alba-a-wildlife-adventure-6bddd8b56955))
     
 - ##### Path Design
     
@@ -150,7 +150,7 @@ also known as:
 ## Examples
 
 - Alba full map with landscape design, paths and spatial composition
-  ![](Alba_full.jpg)
+  ![](assets/Alba_full.jpg)
  _(Source: [link]((https://medium.com/@ustwogames/the-environment-art-of-alba-a-wildlife-adventure-6bddd8b56955))_  
   
 - Massing room structure analysis

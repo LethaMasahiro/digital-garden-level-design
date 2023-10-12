@@ -94,7 +94,7 @@ Also known as:
 
 
 ## Examples
-- ![](gymscene.png)
+- ![](assets/gymscene.png)
   random blocks placed to test mechanic (Alex K. @TychoBolt, 2020)
 
 ## Relevant Tools
