@@ -94,7 +94,7 @@ also known as:
 ## Examples
 
 - One example of transferring a Proximity Diagram to a Map
-  ![](proximitydiagram.png)
+  ![](assets/proximitydiagram.png)
   _(Source: [[Totten 2019 - An Architectural Approach of Level Design]], p.133)_
 
 ## Relevant Tools

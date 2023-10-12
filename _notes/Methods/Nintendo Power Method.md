@@ -108,11 +108,11 @@ aliases:
 
 
 - 2D top-down with spawns and walls and paths marked
-   ![](nintendopowermethod.png)
+   ![](assets/nintendopowermethod.png)
   _(Source: [[Totten 2019 - An Architectural Approach of Level Design]], p. 82-84)
 
 - 2D frontal view of Mario level with the varying ground levels and bubbles to mark gameplay beats
-  ![](nintendopowermethod2.png)
+  ![](assets/nintendopowermethod2.png)
   _(Source: [[Nintendo Power Method]], p.82-84)_
 
 ## Relevant Tools

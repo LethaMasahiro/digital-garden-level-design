@@ -56,7 +56,7 @@ also known as:
     - Second Act: The confrontation.
     - Third Act: The resolution.
 
-![Three-act-structure](Three-act-story.png) _(Source: [World of Level Design](https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/level-design-pacing-gameplay-beats-part1.php))_
+![assets/Three-act-structure](Three-act-story.png) _(Source: [World of Level Design](https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/level-design-pacing-gameplay-beats-part1.php))_
 
 - Pacing consists of three core elements:
     - Intensity (combat is high intensity, exploration or puzzles are low intensity).
@@ -86,14 +86,14 @@ also known as:
 
 - Create a visual level timeline by documenting the story structure on a timeline and adding gameplay beats. Use color-coding for specific recurring patterns in your level (e.g., tutorials in green). Add hard gates (Def.: Narrative sections that have to be triggered by the player to further advance in the level) to further structure your level.
 
-![Level Timeline](tutorial-pacing.png) _(Source: [World of Level Design](https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/level-design-pacing-gameplay-beats-part1.php))_
+![Level Timeline](assets/tutorial-pacing.png) _(Source: [World of Level Design](https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/level-design-pacing-gameplay-beats-part1.php))_
 
-![Hard Gates](hard-gates-pacing.png) _(Source: [World of Level Design](https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/images/pacing-gameplay-beats-part1-13-large.jpg))_
+![Hard Gates](assets/hard-gates-pacing.png) _(Source: [World of Level Design](https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/images/pacing-gameplay-beats-part1-13-large.jpg))_
 
 - Represent your pacing on a line stretching across your story structure (three acts) on a timeline.
 - Alternatively, represent pacing in boxes:
 
-![Box Pacing Diagram](pacing-boxes.png) _(Source: [[TychoBolt (K., Alex) 2020 - In Pursuit of Better Levels]])_
+![Box Pacing Diagram](assets/pacing-boxes.png) _(Source: [[TychoBolt (K., Alex) 2020 - In Pursuit of Better Levels]])_
 
 - Strive for non-monotonic pacing that keeps player attention while allowing for smooth level progression without losing tension.
 - Vary your pacing; more pronounced differences between high and low pacing can create a dynamic and engaging experience or be overwhelming.
@@ -106,7 +106,7 @@ also known as:
 - Your level flow doesn't have to be linear; it can include alternative routes based on player decisions or specific trigger points.
 - To control the overall pacing, divide the level areas into beats. Define and combine several linear pacing diagrams if necessary.
 	  
-	![](pacinggameplaybeats.png)
+	![](assets/pacinggameplaybeats.png)
 	_(Source: [[TychoBolt (K., Alex) 2020 - In Pursuit of Better Levels]])_
 	  
 - In an open world, consider restricting areas to players, for example entry areas. This helps directing the pacing for the player, at least to a certain amount. 
@@ -117,7 +117,7 @@ also known as:
 - For example, analyze how intense the **gameplay** becomes over **time**
 - Sort the narrative in categories and analyze when these categories appear in the narrative over time and how high their intensity is
   
-  ![](pacingxyaxis.png)
+  ![](assets/pacingxyaxis.png)
   _(Plotting the categories "Explore", "Combat", "Puzzle" and "Choreo" against each other for the White Forest Inn encounter in "Half-Life 2: Episode Two". Source: [link](https://book.leveldesignbook.com/process/preproduction/pacing))_
 
 
@@ -175,10 +175,10 @@ also known as:
 ## Examples
 
 - Uncharted Pacing Graph:
-  ![](UnchartedPacing.png)_(Source: [link](https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/level-design-pacing-gameplay-beats-part3.php))_
+  ![](assets/UnchartedPacing.png)_(Source: [link](https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/level-design-pacing-gameplay-beats-part3.php))_
 
 - Halls of Justice Pacing Graph:
-  ![](halls-of-justice-pacing.png)
+  ![](assets/halls-of-justice-pacing.png)
   _(Source: [link](https://www.worldofleveldesign.com/categories/wold-members-tutorials/peteellis/level-design-pacing-gameplay-beats-part3.php))_
 
 ## Relevant Tools

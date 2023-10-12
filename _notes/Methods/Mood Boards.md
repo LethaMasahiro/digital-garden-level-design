@@ -108,11 +108,11 @@ also known as:
 ## Examples
 
 - A Mood Board proposal for concept art of a game, created by Eduardo
-  ![](moodboardenrico.jpeg)
+  ![](assets/moodboardenrico.jpeg)
   _(Source: [link](https://medium.com/untitled-game-design-game/mood-boards-for-concept-art-b1013d51b510))
 
 - A mood board for Sci-Fi farming
-  ![](moodboardscififarming.jpeg)
+  ![](assets/moodboardscififarming.jpeg)
  _(Sources: [1](https://simonstalenhag.se/), [2](https://cc0textures.com/), [3](https://www.artstation.com/hamfish) , [4](https://twitter.com/thisnorthernboy) , [5](https://www.instagram.com/thisnorthernboy/))_
 
 ## Relevant Tools
