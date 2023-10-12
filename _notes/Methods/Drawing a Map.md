@@ -153,7 +153,7 @@ also known as:
 
 ## Relevant Literature
 
-[[Totten 2019 - An Architectural Approach of Level Design]]
+[[Library/Totten/Totten 2019 - An Architectural Approach of Level Design]]
 
 [[Schell 2014 - A Book of Lenses]], chapter 21
 
