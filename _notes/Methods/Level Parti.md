@@ -114,7 +114,7 @@ also known as:
 ## Examples
 - Sketches of electric fence traps in SWARM!
   
-  ![](sketchlevelparti.png)
+  ![](assets/sketchlevelparti.png)
   _(Source: [[Totten 2019 - An Architectural Approach of Level Design]], p.82)_
 
 ## Relevant Tools
