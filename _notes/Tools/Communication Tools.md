@@ -37,7 +37,7 @@ There is a free version, a pro version (6,75€/month),a business+ version (11,7
 ##### Roles:
 - ([[Manager]]) because it focuses on design and production rather than project management
 - [[Designer]]
-- [[Roles/Artist]]
+- [[Artist]]
 - [[Engineer]]
 - [[Writer]]
 - [[Tester]]
@@ -73,7 +73,7 @@ Discord is free-to-use, but has a paid version called Nitro that allows for vari
 ##### Roles:
 - ([[Manager]]) because it focuses on design and production rather than project management
 - [[Designer]]
-- [[Roles/Artist]]
+- [[Artist]]
 - [[Engineer]]
 - [[Writer]]
 - [[Tester]]
@@ -108,7 +108,7 @@ Miro has the following options: Free-to-use, Starter (8-10$ /month), Business (1
 ##### Roles: 
 - [[Manager]]
 - [[Designer]]
-- [[Roles/Artist]]
+- [[Artist]]
 - [[Writer]]
 - ([[Tester]], [[Engineer]]) since it focuses more on the designing aspect
 
@@ -139,7 +139,7 @@ Trello has the following options: Free-to-use, Standard (5-6$ /month), Premium (
 ##### Roles: 
 - [[Manager]]
 - [[Designer]]
-- [[Roles/Artist]]
+- [[Artist]]
 - [[Engineer]]
 - [[Writer]]
 - [[Tester]]
@@ -173,7 +173,7 @@ Trello has the following options: Free-to-use, Standard (7.75$ /month), Premium 
 ##### Roles:
 - [[Manager]]
 - [[Designer]]
-- [[Roles/Artist]]
+- [[Artist]]
 - [[Engineer]]
 - [[Writer]]
 - [[Tester]]

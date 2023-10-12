@@ -41,7 +41,7 @@ Photoshop is part of Adobe's abonnement model and has the following options:
 
 ##### Roles:
 - [[Designer]]
-- [[Roles/Artist]]
+- [[Artist]]
 
 Link: [Photoshop Website](https://www.adobe.com/de/products/photoshop/landpb.html?gclid=CjwKCAjw3dCnBhBCEiwAVvLcu6KUzjwD7SSN2TqY8oB89wvOUqbL9j-Eg_9dxjTbXxVaguBD2rwnChoCVQoQAvD_BwE&mv=search&s_kwcid=AL!3085!3!341205896389!e!!g!!adobe%20photoshop!1419109629!54636022246&mv=search&mv2=paidsearch&sdid=2XBSBWBF&ef_id=CjwKCAjw3dCnBhBCEiwAVvLcu6KUzjwD7SSN2TqY8oB89wvOUqbL9j-Eg_9dxjTbXxVaguBD2rwnChoCVQoQAvD_BwE:G:s&s_kwcid=AL!3085!3!341205896389!e!!g!!adobe%20photoshop!1419109629!54636022246)
 
@@ -72,7 +72,7 @@ Blender is a 3D computer graphics software focusing on the creation of 3D models
 Blender is free to use.
 
 ##### Roles:
-- [[Roles/Artist]]
+- [[Artist]]
 
 Link: [Blender Website](https://www.blender.org/)
 
@@ -100,7 +100,7 @@ Autodesk Maya is a 3D modeling and animations software. It focuses on the creati
 Autodesk Maya has only one pricing model which is 235$ /month.
 
 ##### Roles:
-- [[Roles/Artist]]
+- [[Artist]]
 
 Link: [Maya Website](https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription&plc=MAYA)
 
@@ -133,7 +133,7 @@ The following payment options are available:
 - 112.64€/month for a bundle containing Maxon's products Cinema 4D, Forger, Red Giant, Redshift, Universe and ZBrush
 
 ##### Roles:
-- [[Roles/Artist]]
+- [[Artist]]
 
 Link: [ZBrush Website](https://www.maxon.net/en/zbrush)
 
@@ -160,7 +160,7 @@ The tool is available on the Apple Store for 12.99$ as a one-time purchase.
 
 ##### Roles:
 - [[Designer]]
-- [[Roles/Artist]]
+- [[Artist]]
 
 Link: [Procreate Website](https://procreate.com/)
 

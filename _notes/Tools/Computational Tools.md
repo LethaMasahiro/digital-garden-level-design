@@ -35,7 +35,7 @@ The following options are available: Indie (119$ ), Professional (299$ ), Studio
 
 ##### Roles:
 - [[Designer]]
-- [[Roles/Artist]]
+- [[Artist]]
 
 Link: [World Machine Link](https://www.world-machine.com/)
 
@@ -63,7 +63,7 @@ Adobe Substance 3D Designer is a node-based tool/application to create 2D materi
 As part of the Adobe abo model the following options are available: Substance 3D Collection package (49.99$ /month, including all above Adobe integrations), Substance 3D Texturing package (19.99$ /month, only including Sampler, Designer and Painter)
 
 ##### Roles:
-- [[Roles/Artist]]
+- [[Artist]]
 
 Link: [3D Designer Website](https://www.adobe.com/products/substance3d-designer.html)
 
@@ -95,7 +95,7 @@ The group is divided into Suites and Components. For games the following product
 The following license options are available: Learning Edition (free-to-use, only Modeler included), Indie (when revenue/funding < 100k$ , 19$ /month), Pro (when revenue/funding < 1M$ , 299$ or more), Enterprise (Custom Price)
 
 ##### Roles:
-- [[Roles/Artist]]
+- [[Artist]]
 
 Link: [SpeedTree Website](https://store.speedtree.com/)
 
@@ -125,7 +125,7 @@ There are three options available:
 - ArcGIS CityEngine Single Use, Perpetual License
 
 ##### Roles:
-- [[Roles/Artist]]
+- [[Artist]]
 
 Link: [CityEngine Website](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview)
 

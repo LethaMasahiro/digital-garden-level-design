@@ -77,7 +77,7 @@ also known as: Architectural drawing
 - When you aim to **clearly communicate a detailed concept** of your object to your team, enhancing their understanding of your vision.
 
 ### Relevant Roles using this model
-- #roles/artists [[Roles/Artist]] #used-by/artist 
+- #roles/artists [[Artist]] #used-by/artist 
 - #roles/designer [[Designer]] #used-by/designer 
 
 ## Relevancy in the following processes

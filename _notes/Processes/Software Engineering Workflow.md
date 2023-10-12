@@ -50,7 +50,7 @@ also known as:
     
     - Delve deeper into your solutions, find alternatives, and explore potential technologies.
     - Concretize your solutions and bring them to life.
-    - Roles: #roles/manager [[Manager]], #roles/designer [[Designer]], #roles/artists [[Roles/Artist]], #roles/engineers [[Engineer]].
+    - Roles: #roles/manager [[Manager]], #roles/designer [[Designer]], #roles/artists [[Artist]], #roles/engineers [[Engineer]].
     - Context: Collaborate to bring ideas to the table, use mood boards, define aesthetics, play dynamics, and refine ideas.
     - Input: Ideas.
     - Output: [[Methods/Mood Boards]], [[Reference Collection]], [[Collection]].

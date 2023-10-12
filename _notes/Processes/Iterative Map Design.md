@@ -38,7 +38,7 @@ Iterative Design according to Zimmermann:
 
 - Create a first draft of your [[Map]] that shows every important element you want to include.
 - You can refer back to the [[Drawing a Map]] method to get an idea of how to draw a level map.
-- Relevant roles: [[Designer]], [[Roles/Artist]].
+- Relevant roles: [[Designer]], [[Artist]].
 - Tools: [[Digital Art Tools]], [[Non-digital Design Tools]].
 
 #### Step 2: Test
@@ -61,7 +61,7 @@ Iterative Design according to Zimmermann:
 
 - Refine the map by taking into account all the points that need to be changed.
 - Draw the refined map with more detail, at some point considering metrics as well.
-- Relevant roles: [[Designer]], [[Roles/Artist]].
+- Relevant roles: [[Designer]], [[Artist]].
 - Tools: [[Digital Art Tools]], [[Non-digital Design Tools]], [[Computational Tools]].
 
 #### Step 5: Repeat from step 2

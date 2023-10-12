@@ -127,10 +127,10 @@ also known as:
 	- Art: 
 	  
 		- ###### Art Bible: #roles/artists #used-by/artist 
-		  Written from [[Roles/Artist]] to [[Roles/Artist]], provides consistency and guidelines on the artwork of the game
+		  Written from [[Artist]] to [[Artist]], provides consistency and guidelines on the artwork of the game
 		  
 		- ###### Concept Art Overview: #roles/artists #used-by/designer 
-		  Written by [[Roles/Artist]] to [[Designer]], set of images that show how the game will look and feel like in the context of the game design 
+		  Written by [[Artist]] to [[Designer]], set of images that show how the game will look and feel like in the context of the game design 
 		  
 	- Engineering: 
 	  
@@ -141,7 +141,7 @@ also known as:
 		  Written from [[Engineer]] to [[Roles/Artist]], how to integrate the assets into the game
 		  
 		- ###### System Limitations: #roles/engineers #used-by/designer #used-by/artist 
-		  Written by [[Engineer]] to [[Designer]] and [[Roles/Artist]], state the limitations of the systems (e.g. number of polygons in one frame)
+		  Written by [[Engineer]] to [[Designer]] and [[Artist]], state the limitations of the systems (e.g. number of polygons in one frame)
 		  
 	- Management: 
 	  

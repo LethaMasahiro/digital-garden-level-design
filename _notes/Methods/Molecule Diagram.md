@@ -128,7 +128,7 @@ Other examples of how to draw and explain the diagram can be found in Totten's w
 
 ### Relevant Roles using this method
 - #roles/designer  [[Designer]]
-- #roles/artists [[Roles/Artist]]
+- #roles/artists [[Artist]]
 - #roles/engineers [[Engineer]]
 
 

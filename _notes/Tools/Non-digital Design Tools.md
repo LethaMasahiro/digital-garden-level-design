@@ -78,5 +78,3 @@ When making decisions, it is sometimes bring a random generator into the equatio
 
 ##### Roles:
 - [[Designer]]
-
-Link: [tba]()

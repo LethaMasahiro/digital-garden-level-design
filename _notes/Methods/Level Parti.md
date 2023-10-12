@@ -75,7 +75,7 @@ also known as:
 ### Relevant Roles using this model
 
 - #roles/designer [[Designer]] #used-by/designer
-- #roles/artists [[Roles/Artist]] #used-by/artist (if they have creative freedom to design the world).
+- #roles/artists [[Artist]] #used-by/artist (if they have creative freedom to design the world).
 
 ## Relevancy in the following processes
 

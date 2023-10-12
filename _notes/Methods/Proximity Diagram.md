@@ -69,7 +69,7 @@ also known as:
 ### Relevant Roles Using This Model
 
 - #roles/designer [[Designer]] #used-by/designer
-- [[Roles/Artist]] #used-by/artist
+- [[Artist]] #used-by/artist
 - [[Engineer]] #used-by/engineers
 
 ## Relevance in the Following Processes

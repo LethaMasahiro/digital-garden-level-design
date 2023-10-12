@@ -38,7 +38,7 @@ Google Drive is free-to-use with up to 15GB storage for every individual, but co
 ##### Roles:
 - [[Manager]]
 - [[Designer]]
-- [[Roles/Artist]]
+- [[Artist]]
 - [[Engineer]]
 - [[Writer]]
 - [[Tester]]
@@ -68,7 +68,7 @@ PureRef is free-to-use, but when downloading the software an amount of 15€ or 
 
 ##### Roles:
 - [[Designer]]
-- [[Roles/Artist]]
+- [[Artist]]
 
 Link: [PureRef Website](https://www.pureref.com/)
 
@@ -95,7 +95,7 @@ Pinterest is free-to-use and only requires an account.
 
 ##### Roles:
 - [[Designer]]
-- [[Roles/Artist]]
+- [[Artist]]
 - [[Writer]]
 
 Link: [Pinterest Website](https://co.pinterest.com/)
@@ -132,7 +132,7 @@ Evernote is free-to-use but also offers the following options:
 ##### Roles:
 - [[Manager]]
 - [[Designer]]
-- [[Roles/Artist]]
+- [[Artist]]
 - [[Writer]]
 
 Link: [Evernote Website](https://evernote.com/)

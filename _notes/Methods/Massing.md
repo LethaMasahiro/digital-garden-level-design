@@ -111,7 +111,7 @@ also known as:
 ### Relevant Roles using this model
 
 - #roles/designer [[Designer]] #used-by/designer
-- [[Roles/Artist]] #used-by/artist
+- [[Artist]] #used-by/artist
 
 ## Relevancy in the following processes
 

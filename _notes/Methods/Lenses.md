@@ -93,7 +93,7 @@ also known as:
 
 - #roles/designer [[Designer]] #used-by/designer
 - #roles/manager [[Manager]] #used-by/manager
-- #roles/artists [[Roles/Artist]] #used-by/artist
+- #roles/artists [[Artist]] #used-by/artist
 - #roles/writer [[Writer]] #used-by/writer
 - #roles/engineers [[Engineer]] #used-by/engineers
 

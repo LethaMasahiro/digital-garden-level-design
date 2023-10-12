@@ -47,7 +47,7 @@ Unity is free-to-use for students and hobbyists. For professionals, teams and en
 
 ##### Roles:
 - [[Designer]]
-- [[Roles/Artist]]
+- [[Artist]]
 - [[Engineer]]
 - [[Tester]]
 
@@ -84,7 +84,7 @@ Unreal Engine is free-to-use but includes two more paid options:
 
 ##### Roles:
 - [[Designer]]
-- [[Roles/Artist]]
+- [[Artist]]
 - [[Engineer]]
 - [[Tester]]
 
@@ -122,7 +122,7 @@ RPG Maker consist of several versions that can all be bought on [Komodo Plaza](h
 
 ##### Roles:
 - [[Designer]]
-- [[Roles/Artist]]
+- [[Artist]]
 - [[Engineer]]
 - [[Writer]]
 - [[Tester]]

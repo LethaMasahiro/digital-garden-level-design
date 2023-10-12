@@ -85,7 +85,7 @@ also known as: Visual Design
 ### Relevant Roles Using This Model
 
 - #roles/designer [[Designer]] #used-by/designer
-- #roles/artists [[Roles/Artist]] #used-by/artist
+- #roles/artists [[Artist]] #used-by/artist
 
 ## Relevance in the Following Processes
 

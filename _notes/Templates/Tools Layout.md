@@ -30,7 +30,7 @@ tba
 ##### Roles:
 - [[Manager]]
 - [[Designer]]
-- [[Roles/Artist]]
+- [[Artist]]
 - [[Engineer]]
 - [[Writer]]
 - [[Tester]]

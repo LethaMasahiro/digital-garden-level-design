@@ -107,7 +107,7 @@ also known as: Design Pillars, Design Goals and Features
 ### Relevant Roles Using This Model
 
 - #roles/designer [[Designer]] #used-by/designer
-- [[Roles/Artist]] #used-by/artist
+- [[Artist]] #used-by/artist
 - [[Engineer]] #used-by/engineers
 - [[Writer]] #used-by/writer
 - [[Tester]] #used-by/tester
