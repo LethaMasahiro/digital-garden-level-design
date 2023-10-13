@@ -154,7 +154,7 @@ also known as:
  _(Source: [link]((https://medium.com/@ustwogames/the-environment-art-of-alba-a-wildlife-adventure-6bddd8b56955))_  
   
 - Massing room structure analysis
-  ![](https://i.imgur.com/GjyJHYW.png)
+  ![](assets/massinganalysis.png)
   _(Source: [link](http://www.presidentsmedals.com/Entry-19721))_
 
 ## Relevant Tools

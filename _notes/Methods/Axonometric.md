@@ -64,7 +64,7 @@ also known as: Architectural drawing
     - Project the outer corners of your object onto the coordinate system and **shift these points** along the three-dimensional axis.
     - Connect the points with lines to the original object, resulting in an accurate three-dimensional axonometric representation of your object.
 	  
-	  ![](https://i.imgur.com/hm41KT9.png)
+	  ![](assets/axonometric.png)
 	  _(Geometrical Axonometric, Source: Wikipedia, [link](https://de.wikipedia.org/wiki/Axonometrie#/media/Datei:Haus-karo-axonometrie.svg) - @Ag2gaeh)_
 
 ### Output
@@ -109,19 +109,19 @@ also known as: Architectural drawing
 ## Examples
 - A sectional axonometric
 
-  ![](https://i.imgur.com/U78pHNe.png)
+  ![](assets/sectionalaxonometric.png)
   _(Source: [[Totten 2019 - An Architectural Approach of Level Design]], p.58)
   
 - An axonometric drawing of a level with descriptions
-![](https://i.imgur.com/bJe82gX.png)
+![](assets/axonometricdrawing.png)
  _(Source: [[Totten 2019 - An Architectural Approach of Level Design]], p.59)
 
 - The "computational anaglyphic method" that develops an axonometric 3D view based on the 2 images it was given as an input
-  ![](https://i.imgur.com/puVHexm.png)
+  ![](assets/axonometricplane.png)
   _(Source: [link](Stereo_Orthogonal_Axonometric_Perspective.pdf) p. 220)_
 
 - Game perspectives can also be shaped by axonometric/isometric views. Here's an example of that specific camera view:
-  ![](https://i.imgur.com/4RoW9eg.png)
+  ![](assets/ageofempires.png)
   _(Source: Age of Empires, 1997-2023)_
 
 ## Relevant Tools

@@ -132,11 +132,11 @@ also known as: Behavioral Diagram, Dynamic View, Activity Diagram, Use Case Diag
   
 - Example of a State Diagram in a Serious Game
   
-  ![](https://i.imgur.com/4VaHUKJ.png)
+  ![](assets/activitydiagram.png)
 _(Source: [[Towards a Domain Specific Modelling Language for Serious Game Design.pdf]] )_
 
 - A Use case diagram for a restaurant
-  ![](https://i.imgur.com/uNkumVK.png)
+  ![](assets/usecasediagram.png)
  _(Source: [link](https://en.wikipedia.org/wiki/Use_case_diagram))_
 
 ## Relevant Tools

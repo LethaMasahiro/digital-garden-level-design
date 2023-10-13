@@ -101,10 +101,10 @@ Roughly mapping out the level, similar to a [[Gym Scene]] _(Source: [[TychoBolt 
 - Relevant Tools: [[Game Engines]], [[Computational Tools]].
 - Relevant Methods: N/A
 
-![Whiteblocking in SWARM! to test the dynamics of the level](https://i.imgur.com/mM8AKBh.png) 
+![Whiteblocking in SWARM! to test the dynamics of the level](assets/whiteblockingmetromania.png) 
 Whiteblocking in SWARM! to test the dynamics of the level (Source: SWARM!)
 
-![Blockout in Uncharted (2007)](https://i.imgur.com/1UYB0iG.png) 
+![Blockout in Uncharted (2007)](assets/BlockoutUncharted.png) 
 Blockout in Uncharted (2007)
 
 ### 7. Iterate over the level
@@ -113,7 +113,7 @@ Blockout in Uncharted (2007)
 - Repeat the cycle of Implement -> Test -> Iterate.
 - Gradually add more details and make decisions until you are satisfied with the outcome.
 
-![Iteration process by Tommy Norbert](https://i.imgur.com/v3RnxJz.png) Iteration process by Tommy Norbert _(Source: Tommy Norbert's website, [link](https://www.tommynorberg.com/))__
+![Iteration process by Tommy Norbert](assets/tommynorbertiterate.jpg) Iteration process by Tommy Norbert _(Source: Tommy Norbert's website, [link](https://www.tommynorberg.com/))__
 
 ## Applicability
 

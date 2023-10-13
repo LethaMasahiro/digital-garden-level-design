@@ -1,2 +1,2 @@
 
-[[assets/library/totten/An architectural approach to Level Design.pdf]]
+[[An_architectural_approach_to_Level_Design.pdf]]

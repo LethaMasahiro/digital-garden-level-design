@@ -66,6 +66,8 @@ also known as: Visual Design
     - Implement the "Rule of Thirds" by dividing the screen into three sections vertically and horizontally. Place elements along these lines to focus the player's attention on key objects.
         - For example, "Journey"(2012) positions the player character on the first vertical line, covers the bottom third with a sand dune, and places the mountain (the game's destination) in the center for a visually striking image.
           
+          ![](assets/journey.png)
+          
 - Collaborate with the artist team to create these assets.
     - Ensure symbols are clearly distinguishable from other assets (e.g., consider making an interactable door 3D to stand out from the 2D background).
     - Utilize basic color theory and high-contrast elements to make assets stand out.

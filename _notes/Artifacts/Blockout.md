@@ -6,7 +6,7 @@ A Blockout refers to a preliminary, rough or non-final version of a game level o
 
 ## Concrete Examples
 
-![](https://i.imgur.com/NMWDRcK.png)
+![](assets/blockoutmodernwarfare.png)
 Comparison of a blockout and the final level in Call of Duty: Modern Warfare (2019)
 
 

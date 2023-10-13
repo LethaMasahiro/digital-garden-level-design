@@ -6,7 +6,7 @@ An Asset is a digital resource or object used in game development to build the g
 
 ## Concrete Examples
 
-![](https://i.imgur.com/2mF94we.png)
+![](assets/slimeasset.png)
 A 2D slime asset available to download for free on https://craftpix.net/freebies/free-slime-sprite-sheets-pixel-art/ 
 
 
